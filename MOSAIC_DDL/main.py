@@ -89,20 +89,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-
-"""
-TODO Coding/Testing
-
-- Add "work in progress section" to readme
-
-TODO Cleaning
-
-- Put all sample code into one folder and leave a readme file with instructions on how to use it(where to put the different files in order for it to work); thus also rename files and paths in configuration file; as soon as everything is definitive; move sample_configuration to sample_code folder and rename to configuration; move sampling_procedures to sample_code; deleted already generated .jsonl files; CHECK GITIGNORE PRECISELY THAT NOTHING IS IGNORED FROM THE EMPTY FOLDERS -> and that no prior generations etc. are pushed; also make sure that in main.py everything required is deleted
-- In config_framework.py, replace paths to large files such as models with empty placeholder and remark somewhere that these need to be adjusted
-- TRIPLE CHECK WHAT CONFIGURATION I ACTUALLY WANT TO SUBMIT AS THE SAMPLE INSTANTIATION; AS THINGS STAND NOW IT WILL BE THE ONE WITH 10x10x20 DOCUMENTS AND WITH ONE RELATION PER DOMAIN EXCEPT FOR THE OCCASION DOMAIN WHERE THERE ARE TWO RELATIONS
-
-TODO Writing
-
-- Try to push stuff to github repo of lab; just that it actually works when I need to submit; also PUSH TO PUBLIC REPO under my account and mention it in report (add to readme file that it is work in progress)
-"""
