@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config name="DatasetGenerationConfiguration">
+    <domains>
+        <domain id="occasion" eii="high">
+            <domainAttribute id="occasion.location" key="occasion_location" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="occasion.date" key="occasion_date" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="occasion.time" key="occasion_time" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="occasion.content" key="occasion_content" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="occasion.scale" key="occasion_scale" value="" frequency="0.85" eii="low"/>
+            <domainAttribute id="occasion.duration" key="occasion_duration" value="" frequency="0.85" eii="low"/>
+            <domainAttribute id="occasion.cultural_impact" key="occasion_cultural_impact" value="" frequency="0.55" eii="low"/>
+            <domainAttribute id="occasion.societal_impact" key="occasion_societal_impact" value="" frequency="0.55" eii="low"/>
+            <domainAttribute id="occasion.controversies" key="occasion_controversies" value="" frequency="0.25" eii="low"/>
+            <domainAttribute id="occasion.challenges" key="occasion_challenges" values="" frequency="0.25" eii="low"/>
+            <domainAttribute id="occasion.surprises" key="occasion_surprises" value="" frequency="0.25" eii="low"/>
+            <domainAttribute id="occasion.incidents" key="occasion_incidents" value="" frequency="0.05" eii="low"/>
+            <domainAttribute id="occasion.special_conditions" key="occasion_special_conditions" value="" frequency="0.05" eii="low"/>
+
+            <entities>
+                <entity id="occasion.humans" count="2">
+                    <entityAttribute id="occasion.humans.name" key="occasion_humans_name" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.humans.occupation" key="occasion_humans_occupation" value="" frequency="0.85" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.gender" key="occasion_humans_gender" value="" frequency="0.85" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.birth_year" key="occasion_humans_birth_year" value="" frequency="0.55" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.political_affiliation" key="occasion_humans_political_affiliation" value="" frequency="0.55" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.nationality" key="occasion_humans_nationality" value="" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.religious_affiliation" key="occasion_humans_religious_affiliation" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.father" key="occasion_humans_father" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.mother" key="occasion_humans_mother" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.spouse" key="occasion_humans_spouse" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.humans.passport_number" key="occasion_humans_passport_number" value="" frequency="0.05" eii="high"/>
+                    <entityAttribute id="occasion.humans.phone_number" key="occasion_humans_phone_number" value="" frequency="0.05" eii="high"/>
+                    <entityAttribute id="occasion.humans.email_address" key="occasion_humans_email_address" value="" frequency="0.05" eii="high"/>
+                    <entityAttribute id="occasion.humans.social_media_platforms" key="occasion_humans_social_media_platforms" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.humans.social_media_usernames" key="occasion_humans_social_media_usernames" value="" frequency="0.05" eii="high"/>
+                </entity>
+
+                <entity id="occasion.animals" count="1">
+                    <entityAttribute id="occasion.animals.species" key="occasion_animals_species" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.animals.age" key="occasion_animals_age" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.animals.endangered_status" key="occasion_animals_endangered_status" frequency="0.55" eii="moderate"/>
+                    <entityAttribute id="occasion.animals.region" key="occasion_animals_region" value="" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.animals.microchip_id" key="occasion_animals_microchip_id" value="" frequency="0.05" eii="high"/>
+                </entity>
+
+                <entity id="occasion.vehicles" count="1">
+                    <entityAttribute id="occasion.vehicles.type" key="occasion_vehicles_type" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.vehicles.color" key="occasion_vehicles_color" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.vehicles.production_year" key="occasion_vehicles_production_year" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.vehicles.condition" key="occasion_vehicles_condition" value="" frequency="0.55" eii="low"/>
+                    <entityAttribute id="occasion.vehicles.manufacturer" key="occasion_vehicles_manufacturer" value="" frequency="1.0" eii="moderate"/>
+                    <entityAttribute id="occasion.vehicles.fuel_type" key="occasion_vehicles_fuel_type" value="" frequency="0.55" eii="moderate"/>
+                    <entityAttribute id="occasion.vehicles.license_plate_number" key="occasion_vehicles_license_plate_number" value="" frequency="0.25" eii="high"/>
+                    <entityAttribute id="occasion.vehicles.vin" key="occasion_vehicles_vin" value="" frequency="0.05" eii="high"/>
+                </entity>
+
+                <entity id="occasion.objects" count="2">
+                    <entityAttribute id="occasion.objects.name" key="occasion_objects_name" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.objects.size" key="occasion_objects_size" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.objects.condition" key="occasion_objects_condition" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.objects.color" key="occasion_objects_color" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.objects.manufacturing_year" key="occasion_objects_manufacturing_year" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.objects.value" key="occasion_objects_value" value="" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.objects.serial_number" key="occasion_objects_serial_number" value="" frequency="0.05" eii="high"/>
+                </entity>
+
+                <entity id="occasion.buildings" count="1">
+                    <entityAttribute id="occasion.buildings.type" key="occasion_buildings_type" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.buildings.construction_year" key="occasion_buildings_construction_year" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.buildings.floors" key="occasion_buildings_floors" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.buildings.damage_status" key="occasion_buildings_damage_status" value="" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.buildings.renovation_status" key="occasion_buildings_renovation_status" value="" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.buildings.blueprint_id" key="occasion_buildings_blueprint_id" value="" frequency="0.05" eii="high"/>
+                </entity>
+
+                <entity id="occasion.infrastructures" count="1">
+                    <entityAttribute id="occasion.infrastructures.type" key="occasion_infrastructures_type" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.infrastructures.construction_year" key="occasion_infrastructures_construction_year" value="" frequency="1.0" eii="low"/>
+                    <entityAttribute id="occasion.infrastructures.capacity" key="occasion_infrastructures_capacity" value="" frequency="0.85" eii="low"/>
+                    <entityAttribute id="occasion.infrastructures.utilization_level" key="occasion_infrastructures_utilization_level" value="" frequency="0.55" eii="low"/>
+                    <entityAttribute id="occasion.infrastructures.damage_status" key="occasion_infrastructures_damage_status" value="" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.infrastructures.safety_rating" key="occasion_infrastructures_safety_rating" value="" frequency="0.25" eii="moderate"/>
+                    <entityAttribute id="occasion.infrastructures.regulatory_id" key="occasion_infrastructures_regulatory_id" value="" frequency="0.05" eii="high"/>
+                    <entityAttribute id="occasion.infrastructures.last_inspection_year" key="occasion_infrastructures_last_inspection_year" value="" frequency="0.05" eii="high"/>
+                </entity>
+            </entities>
+
+            <relations>
+                <!-- ADD RELATIONS -->
+
+                <!-- Example co-occurrence relation between two entities and between two attributes -->
+                <relation type="cooccurrence" scope="entity" probability="0.25">
+                    <from ref="occasion.humans"/>
+                    <to ref="occasion.animals"/>
+                </relation>
+
+                <relation type="cooccurrence" scope="attribute" probability="0.5">
+                    <from ref="occasion.humans.name"/>
+                    <to ref="occasion.humans.nationality"/>
+                </relation>
+            </relations>
+
+            <texttypes>
+                <!-- The system prompts in this section were generated with artifical intelligence, more concretely, with ChatGPT. -->
+
+                <texttype id="occasion.newspaper" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="occasion.newspaper.prompt" key="occasion_newspaper_prompt" value="Given the following .jsonl structure, write a news paper article of no more than 700 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the article. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="occasion.newspaper.attributes" key="occasion_newspaper_attributes" value="all"/>
+                </texttype>
+
+                <texttype id="occasion.interview" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="occasion.interview.prompt" key="occasion_interview_prompt" value="Given the following .jsonl structure, write an interview article of no more than 500 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the interview article. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="occasion.interview.attributes" key="occasion_interview_attributes" value="occasion.location,occasion.date,occasion.time,occasion.content,occasion.humans.name"/>
+                </texttype>
+            </texttypes>
+        </domain>
+
+        <domain id="medical" eii="high">
+            <domainAttribute id="medical.hospital_name" key="medical_hospital_name" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="medical.date_of_visit" key="medical_date_of_visit" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="medical.symptoms" key="medical_symptoms" value="" frequency="0.85" eii="moderate"/>
+            <domainAttribute id="medical.condition" key="medical_condition" value="" frequency="0.55" eii="moderate"/>
+            <domainAttribute id="medical.medication" key="medical_medication" value="" frequency="0.55" eii="moderate"/>
+            <domainAttribute id="medical.patients_name" key="medical_patients_name" value="" frequency="1.0" eii="moderate"/>
+            <domainAttribute id="medical.doctors_name" key="medical_doctors_name" value="" frequency="1.0" eii="low"/>
+
+            <entities>
+                <!-- ADD ENTITIES -->
+            </entities>
+
+            <relations>
+                <!-- ADD RELATIONS -->
+
+                <!-- Example co-occurrence relation between two attributes -->
+                <relation type="cooccurrence" scope="attribute" probability="0.75">
+                    <from ref="medical.hospital_name"/>
+                    <to ref="medical.condition"/>
+                </relation>
+            </relations>
+
+            <texttypes>
+                <!-- The system prompts in this section were generated with artifical intelligence, more concretely, with ChatGPT. -->
+
+                <texttype id="medical.clinical_notes" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="medical.clinical_notes.prompt" key="medical_clinical_notes_prompt" value="Given the following .jsonl structure, write some clinical notes of no more than 250 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the clinical notes. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="medical.clinical_notes.attributes" key="medical_clinical_notes_attributes" value="medical.hospital_name,medical.date_of_visit,medical.symptoms,medical.condition"/>
+                </texttype>
+
+                <texttype id="medical.discharge_summary" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="medical.discharge_summary.prompt" key="medical_discharge_summary_prompt" value="Given the following .jsonl structure, write a medical discharge summary of no more than 250 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the medical discharge summary. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="medical.discharge_summary.attributes" key="medical_discharge_summary_attributes" value="all"/>
+                </texttype>
+            </texttypes>
+        </domain>
+
+        <domain id="financial" eii="high">
+            <domainAttribute id="financial.company_name" key="financial_company_name" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="financial.quarter" key="financial_quarter" value="" frequency="0.85" eii="low"/>
+            <domainAttribute id="financial.stock_ticker" key="financial_stock_ticker" value="" frequency="0.55" eii="low"/>
+            <domainAttribute id="financial.revenue" key="financial_revenue" value="" frequency="0.25" eii="moderate"/>
+            <domainAttribute id="financial.account_id" key="financial_account_id" value="" frequency="0.05" eii="moderate"/>
+            <domainAttribute id="financial.transaction_date" key="financial_transaction_date" value="" frequency="0.05" eii="moderate"/>
+            <domainAttribute id="financial.transaction_amount" key="financial_transaction_amount" value="" frequency="0.05" eii="high"/>
+            <domainAttribute id="financial.ceos_name" key="financial_ceos_name" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="financial.employees_authorized_transaction" key="financial_employees_authorized_transaction" value="" frequency="0.05" eii="high"/>
+
+            <entities>
+                <!-- ADD ENTITIES -->
+            </entities>
+
+            <relations>
+                <!-- ADD RELATIONS -->
+
+                <!-- Example co-occurrence relation between two attributes -->
+                <relation type="cooccurrence" scope="attribute" probability="0.5">
+                    <from ref="financial.company_name"/>
+                    <to ref="financial.revenue"/>
+                </relation>
+            </relations>
+
+            <texttypes>
+                <!-- The system prompts in this section were generated with artifical intelligence, more concretely, with ChatGPT. -->
+
+                <texttype id="financial.earnings_report" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="financial.earnings_report.prompt" key="financial_earning_report_prompt" value="Given the following .jsonl structure, write an earnings report of no more than 350 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the earnings report. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="financial.earnings_report.attributes" key="financial_earnings_report_attributes" value="financial.company_name,financial.quarter,financial.revenue"/>
+                </texttype>
+
+                <texttype id="financial.press_release" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="financial.press_release.prompt" key="financial_press_release_prompt" value="Given the following .jsonl structure, write a press release of no more than 250 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the press release. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="financial.press_release.attributes" key="financial_press_release_attributes" value="financial.company_name,financial.quarter,financial.ceos_name"/>
+                </texttype>
+
+                <texttype id="financial.internal_memo" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="financial.internal_memo.prompt" key="financial_internal_memo_prompt" value="Given the following .jsonl structure, write an internal memo of no more than 250 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the internal memo. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="financial.iternal_memo.attributes" key="financial_internal_memo_attributes" value="financial.company_name,financial.quarter,financial.stock_ticker,financial.revenue,financial.ceos_name"/>
+                </texttype>
+
+                <texttype id="financial.transaction_log" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="financial.transaction_log.prompt" key="financial_transaction_log_prompt" value="Given the following .jsonl structure, write a transaction log of no more than 250 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the transaction log. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="financial.transaction_log.attributes" key="financial_transaction_log_attributes" value="financial.company_name,financial.account_id,financial.transaction_date,financial.transaction_amount,financial.employees_authorized_transaction"/>
+                </texttype>
+            </texttypes>
+        </domain>
+
+        <domain id="legal" eii="high">
+            <domainAttribute id="legal.court_name" key="legal_court_name" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="legal.sentence" key="legal_sentence" value="" frequency="1.0" eii="moderate"/>
+            <domainAttribute id="legal.crime_type" key="legal_crime_type" value="" frequency="0.85" eii="low"/>
+            <domainAttribute id="legal.hearing_date" key="legal_hearing_date" value="" frequency="0.55" eii="low"/>
+            <domainAttribute id="legal.case_id" key="legal_case_id" value="" frequency="0.05" eii="high"/>
+            <domainAttribute id="legal.lawyers_name" key="legal_lawyers_name" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="legal.judges_name" key="legal_judges_name" value="" frequency="0.85" eii="low"/>
+            <domainAttribute id="legal.plaintiffs" key="legal_plaintiffs" value="" frequency="0.25" eii="high"/>
+            <domainAttribute id="legal.defendants" key="legal_defendants" value="" frequency="0.25" eii="high"/>
+
+            <entities>
+                <!-- ADD ENTITIES -->
+            </entities>
+
+            <relations>
+                <!-- ADD RELATIONS -->
+
+                <!-- Example co-occurrence relation between two attributes -->
+                <relation type="cooccurrence" scope="attribute" probability="0.75">
+                    <from ref="legal.sentence"/>
+                    <to ref="legal.hearing_date"/>
+                </relation>
+            </relations>
+
+            <texttypes>
+                <!-- The system prompts in this section were generated with artifical intelligence, more concretely, with ChatGPT. -->
+
+                <texttype id="legal.verdict" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="legal.verdict.prompt" key="legal_verdict_prompt" value="Given the following .jsonl structure, write a verdict of no more than 350 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the verdict. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="legal.verdict.attributes" key="legal_verdict_attributes" value="legal.court_name,legal.sentence,legal.crime_type,legal.hearing_date,legal.judges_name,legal.defendants"/>
+                </texttype>
+
+                <texttype id="legal.deposition" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="legal.deposition.prompt" key="legal_deposition_prompt" value="Given the following .jsonl structure, write a deposition of no more than 350 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the deposition. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="legal.deposition.attributes" key="legal_deposition_attributes" value="legal.case_id,legal.lawyers_name,legal.plaintiffs,legal.defendants"/>
+                </texttype>
+
+                <texttype id="legal.contract" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="legal.contract.prompt" key="legal_contract_prompt" value="Given the following .jsonl structure, write a contract of no more than 450 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the contract. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="legal.contract.attributes" key="legal_contract_attributes" value="legal.court_name,legal.lawyers_name"/>
+                </texttype>
+
+                <texttype id="legal.legal_correspondence" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="legal.legal_correspondence.prompt" key="legal_legal_correspondence_prompt" value="Given the following .jsonl structure, write some legal correspondence of no more than 450 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the legal correspondence. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="legal.legal_correspondence.attributes" key="legal_legal_correspondence_attributes" value="legal.case_id,legal.lawyers_name,legal.judges_name,legal.plaintiffs,legal.defendants"/>
+                </texttype>
+            </texttypes>
+        </domain>
+
+        <domain id="educational" eii="high">
+            <domainAttribute id="educational.course_name" key="educational_course_name" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="educational.grade" key="educational_grade" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="educational.semester" key="educational_semester" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="educational.school_name" key="educational_school_name" value="" frequency="1.0" eii="moderate"/>
+            <domainAttribute id="educational.school_year" key="educational_school_year" value="" frequency="1.0" eii="moderate"/>
+            <domainAttribute id="educational.gpa" key="educational_gpa" value="" frequency="0.55" eii="low"/>
+            <domainAttribute id="educational.instructors_name" key="educational_instructors_name" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="educational.instructors_email_address" key="educational_instructors_email_address" value="" frequency="0.05" eii="high"/>
+            <domainAttribute id="educational.instructors_id" key="educational_instructors_id" value="" frequency="0.05" eii="high"/>
+            <domainAttribute id="educational.students_name" key="education_students_name" value="" frequency="0.25" eii="high"/>
+            <domainAttribute id="educational.students_email_address" key="educational_students_email_address" value="" frequency="0.05" eii="high"/>
+            <domainAttribute id="educational.students_id" key="educational_students_id" value="" frequency="0.05" eii="high"/>
+
+            <entities>
+                <!-- ADD ENTITIES -->
+            </entities>
+
+            <relations>
+                <!-- ADD RELATIONS -->
+
+                <!-- Example co-occurrence relation between two attributes -->
+                <relation type="cooccurrence" scope="attribute" probability="0.5">
+                    <from ref="educational.school_name"/>
+                    <to ref="educational.instructors_name"/>
+                </relation>
+            </relations>
+
+            <texttypes>
+                <!-- The system prompts in this section were generated with artifical intelligence, more concretely, with ChatGPT. -->
+
+                <texttype id="educational.transcript" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="educational.transcript.prompt" key="educational_transcript_prompt" value="Given the following .jsonl structure, write a transcript of no more than 350 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the transcript. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="educational.transcript.attributes" key="eudcational_transcript_attributes" value="educational.course_name,educational.grade,educational.semester,educational.school_name,educational.school_year,educational.gpa,educational.instructors_name,educational.students_name"/>
+                </texttype>
+
+                <texttype id="educational.recommendation_letter" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="educational.recommendation_letter.prompt" key="educational_recommendation_letter_prompt" value="Given the following .jsonl structure, write a recommendation letter of no more than 350 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the recommendation letter. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="educational.recommendation_letter.attributes" key="educational_recommendation_letter_attributes" value="educational.school_name,educational.gpa,educational.instructors_name,educational.instructors_email_address,educational.instructors_id,educational.students_name,educational.students_email_address,educational.students_id"/>
+                </texttype>
+
+                <texttype id="educational.essay" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="educational.essay.prompt" key="educational_essay_prompt" value="Given the following .jsonl structure, write an essay of no more than 450 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the essay. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="educational.essay.attributes" key="educational_essay_attributes" value="educational.course_name,educational.semester,educational.instructors_name,educational.students_name"/>
+                </texttype>
+
+                <texttype id="educational.emails" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="educational.emails.prompt" key="educational_emails_prompt" value="Given the following .jsonl structure, write some email correspondence between instructors/staff and students of no more than 450 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the email correspondence between instructors/staff and students. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="educational.emails.attributes" key="educational_emails_attributes" value="educational.school_name,educational.instructors_name,educational.instructors_email_address,educational.students_name,educational.students_email_address"/>
+                </texttype>
+            </texttypes>
+        </domain>
+
+        <domain id="social" eii="high">
+            <domainAttribute id="social.post_time" key="social_post_time" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="social.topic" key="social_topic" value="" frequency="1.0" eii="low"/>
+            <domainAttribute id="social.platform" key="social_platform" value="" frequency="1.0" eii="moderate"/>
+            <domainAttribute id="social.location" key="social_location" value="" frequency="0.25" eii="moderate"/>
+            <domainAttribute id="social.username" key="social_username" value="" frequency="0.05" eii="high"/>
+
+            <entities>
+                <!-- ADD ENTITIES -->
+            </entities>
+
+            <relations>
+                <!-- ADD RELATIONS -->
+
+                <!-- Example co-occurrence relation between two attributes -->
+                <relation type="cooccurrence" scope="attribute" probability="0.25">
+                    <from ref="social.post_time"/>
+                    <to ref="social.location"/>
+                </relation>
+            </relations>
+
+            <texttypes>
+                <!-- The system prompts in this section were generated with artifical intelligence, more concretely, with ChatGPT. -->
+                
+                <texttype id="social.post" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="social.post.prompt" key="social_post_prompt" value="Given the following .jsonl structure, write a post of no more than 100 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the post. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="social.post.attributes" key="social_post_attributes" value="all"/>
+                </texttype>
+
+                <texttype id="social.comment" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="social.comment.prompt" key="social_comment_prompt" value="Given the following .jsonl structure, write a comment of no more than 100 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the comment. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="social.comment.attributes" key="social_comment_attributes" value="social.topic,social.platform,social.location,social.username"/>
+                </texttype>
+
+                <texttype id="social.direct_message" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="social.direct_message.prompt" key="social_direct_message_prompt" value="Given the following .jsonl structure, write some direct messages of no more than 150 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the direct messages. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="social.direct_message.attributes" key="social_direct_message_attributes" value="social.topic,social.platform,social.username"/>
+                </texttype>
+
+                <texttype id="social.forum_thread" number_of_seeds="10" documents_per_seed="10">
+                    <texttypePrompt id="social.forum_thread.prompt" key="social_forum_thread_prompt" value="Given the following .jsonl structure, write a forum thread of no more than 350 words. Make sure you include ALL given information fields such as names, dates, phone numbers, email addresses, identifiers and ANY other such specific information provided, in the forum thread. Present the information comprehensively and coherently while keeping ALL the information provided in mind. Try to write the text as logically and sensibly as possible. Make sure that you incorporate the information into the text and do not simply reproduce the information as given."/>
+                    <occurringAttributes id="social.forum_thread.attributes" key="social_forum_thread_attributes" value="all"/>
+                </texttype>
+            </texttypes>
+        </domain>
+    </domains>
+</config>

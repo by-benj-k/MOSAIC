@@ -1,0 +1,311 @@
+type,construction,capacity,safety
+Bridge,1800,5000,A
+Tunnel,1850,10000,B
+Dam,1700,100000,A
+Railway,1825,3000,A
+Airport,1900,50000,A
+Seaport,1600,100000,B
+Highway,1920,20000,A
+Subway,1860,8000,A
+Wind Farm,1990,150,B
+Power Plant,1950,1000,A
+Water Treatment Plant,1900,5000,A
+Solar Power Station,2000,500,B
+Gas Pipeline,1900,100000,A
+Telecommunication Tower,1930,200,B
+Oil Refinery,1900,3000,B
+Hydroelectric Plant,1920,50000,A
+Communication Satellite,1960,1,A
+Residential Building,1700,500,A
+Skyscraper,1880,1000,B
+Shopping Mall,1950,5000,B
+Hospital,1800,1000,A
+University Campus,1850,5000,A
+Stadium,1910,80000,A
+Warehouse,1900,5000,B
+Factory,1800,10000,B
+Recycling Plant,1950,2000,A
+Landfill,1700,50000,B
+Flood Barrier,1900,10000,A
+Wind Turbine,1980,200,B
+Oil Rig,1920,500,B
+Cooling Tower,1930,5000,B
+Power Grid,1900,100000,A
+Elevator,1850,100,A
+Bridge Overpass,1930,1000,A
+Underground Parking,1920,500,A
+Gas Station,1910,100,B
+Convention Center,1950,10000,A
+Library,1700,5000,A
+Post Office,1800,1000,B
+Fire Station,1850,500,A
+Police Station,1900,500,A
+Electric Substation,1920,10000,A
+Incineration Plant,1960,5000,B
+Bus Station,1850,5000,A
+Tram Network,1880,5000,A
+Water Reservoir,1700,100000,A
+Power Line,1900,100000,A
+Parking Garage,1950,2000,A
+Sport Complex,1900,10000,A
+Tourist Resort,1920,2000,B
+Hydraulic Lift,1850,100,A
+Grain Elevator,1920,5000,B
+Gas Storage Facility,1900,10000,A
+Seawall,1800,50000,A
+Recreational Park,1900,5000,A
+Observation Tower,1920,500,A
+Residential Complex,1850,10000,A
+Airport Runway,1930,300,A
+Hydroelectric Dam,1920,20000,A
+Light Rail,1900,10000,A
+Logistics Hub,1950,20000,B
+Cooling Station,1940,10000,A
+Petrochemical Plant,1900,10000,B
+Wastewater Treatment Plant,1920,5000,A
+Power Generation Station,1950,10000,A
+Land Development,1800,100000,B
+Scientific Research Center,1920,500,A
+Data Center,2000,10000,A
+Forest Management Facility,1930,1000,B
+Food Processing Plant,1900,2000,B
+Cold Storage Facility,1950,5000,B
+Thermal Power Plant,1950,5000,B
+Chemical Plant,1900,5000,B
+Bridge Tunnel Hybrid,1930,15000,A
+Fiber Optic Network,1990,100000,A
+Stormwater Drain,1700,10000,A
+Water Distribution Network,1800,50000,A
+Renewable Energy Storage,2000,5000,B
+Street Lighting,1850,10000,A
+Public Restroom,1900,100,B
+Convention Hall,1920,5000,A
+Marine Terminal,1900,10000,B
+Electric Charging Station,2000,200,A
+Research Laboratory,1950,500,A
+Energy Storage System,2000,1000,A
+Underground Tunnel,1800,20000,B
+Windmill,1700,100,A
+Urban Park,1850,5000,A
+Storage Tank,1900,10000,B
+Composting Facility,1960,5000,A
+Reforestation Site,1930,10000,A
+Electric Bus Depot,1960,2000,A
+Health Clinic,1800,500,B
+Geothermal Plant,1920,5000,A
+Pedestrian Bridge,1910,500,A
+Research Institute,1900,500,A
+Desalination Plant,2000,5000,A
+Solar Panel Array,1980,1000,B
+Evacuation Shelter,1950,5000,B
+Shopping Center,1900,5000,B
+Seismic Station,1900,100,A
+Cargo Ship,1850,1000,B
+Residential Tower,1900,2000,B
+Bridge Overpass,1950,500,A
+Petrol Pipeline,1920,20000,B
+Wind Energy Farm,2000,500,A
+Rail Yard,1850,10000,B
+Nuclear Reactor,1950,1000,A
+Residential Road,1800,1000,B
+Lighthouse,1800,100,A
+Mining Facility,1900,5000,B
+Jet Bridge,1950,100,A
+Fire Escape,1900,100,A
+Natural Gas Plant,1950,5000,B
+Power Distribution Box,1960,500,B
+Public Restrooms,1800,100,B
+Gravel Quarry,1850,2000,B
+Reservoir Dam,1900,50000,A
+Shipping Container Terminal,1910,2000,B
+Water Well,1850,1000,B
+Natural Gas Pipeline,1930,10000,B
+Pneumatic Tube,1880,5000,B
+Windmill Farm,1900,5000,B
+Parking Lot,1920,2000,B
+Mining Shaft,1850,200,B
+Elevated Railway,1900,5000,A
+Public Park,1800,5000,A
+Mountain Cableway,1920,1000,B
+Gas Storage Tank,1900,10000,B
+Flood Protection Wall,1900,50000,A
+Submarine Tunnel,1930,5000,A
+Bunker,1910,500,B
+Rooftop Garden,1950,500,A
+Water Pipeline,1800,50000,A
+Waste Management Facility,1920,10000,B
+Offshore Oil Platform,1940,500,B
+Truss Bridge,1860,1000,B
+Deep Water Port,1900,50000,B
+Underground Bunker,1950,500,B
+Fiber Optic Cable,1990,50000,A
+Overhead Electric Line,1930,10000,B
+Toll Booth,1900,500,A
+Sky Bridge,1920,500,A
+Greenhouse,1940,500,B
+Residential Community,1900,5000,B
+Heavy Rail,1910,10000,A
+Underground Car Park,1950,500,B
+Public Library,1800,1000,A
+Sewer Tunnel,1850,5000,A
+Sand Dune Barrier,1930,5000,A
+Amphitheater,1920,5000,B
+Pumping Station,1900,2000,A
+Solar Field,2000,1000,A
+Jet Fuel Tank,1950,1000,B
+Elevator Shaft,1850,100,A
+Canal Lock,1900,5000,A
+Hydroelectric Dam,1910,30000,A
+Inclinator,1940,100,B
+Hydraulic Power Station,1920,10000,A
+Underground Stormwater Tunnel,1800,20000,A
+Offshore Wind Farm,2000,500,A
+Recreation Center,1950,5000,B
+Water Fountain,1800,100,B
+Bridge Cable System,1930,5000,A
+Zoning Barrier,1940,200,B
+Subsurface Water Storage,1930,10000,A
+Radio Tower,1900,200,B
+Waste Incinerator,1950,2000,B
+Elevated Highway,1930,20000,A
+Aqueduct,1700,100000,A
+Power Transmission Tower,1900,10000,A
+Desalination Plant,2000,1000,A
+Underground Storage,1950,500,B
+Satellite Dish,1960,100,B
+Tree Planting Area,1950,500,A
+Bus Depot,1930,2000,A
+Oil Pipeline,1900,10000,B
+Hydroponic Farm,2000,1000,B
+Underground Storage Tank,1950,10000,A
+Cemetery,1800,5000,B
+LPG Storage,1930,2000,B
+Electric Transmission Line,1930,5000,A
+Crane,1920,500,B
+Nuclear Waste Disposal Site,1980,100,B
+Water Treatment Facility,1900,10000,A
+Cargo Freight Terminal,1910,5000,B
+Fire Suppression System,1900,100,A
+Dome,1910,2000,B
+Dredging Station,1850,500,B
+Tidal Energy Station,2000,100,B
+Cooling System,1950,5000,A
+Service Station,1900,100,B
+Observation Deck,1930,500,A
+Aviation Control Tower,1950,200,A
+Cargo Loading Dock,1920,5000,B
+Ice Skating Rink,1950,1000,B
+Energy Recovery Plant,2000,2000,B
+Heavy Industry Plant,1900,5000,B
+Bridge Pier,1930,500,A
+Pedestrian Overpass,1920,500,A
+Floodplain Development,1920,10000,B
+High-Speed Rail,2000,20000,A
+Oceanic Research Station,1950,100,B
+Cooling Vent,1900,200,B
+Oil Well,1700,500,B
+Water Purification Plant,1800,5000,A
+Railway Crossing,1850,1000,B
+Grain Storage Silos,1900,5000,B
+Wind Turbine Field,2000,200,A
+Forest Pathway,1800,5000,B
+Dam Spillway,1900,50000,B
+Wastewater Pipeline,1930,10000,C
+Shanty Housing,1700,500,C
+Landslide Prevention Wall,1950,20000,C
+Flood Barrier System,1910,50000,A
+Coal Mine,1800,10000,D
+Unreinforced Bridge,1850,1000,D
+Overhead Pedestrian Bridge,1900,500,C
+Chemical Storage Facility,1920,5000,D
+Old Railway Station,1850,2000,D
+High Voltage Power Line,1930,50000,C
+Timber Logging Operation,1900,10000,D
+Amusement Park Ride,1920,5000,D
+Unstable Cliffside Path,1800,5000,D
+Dust Control System,1950,1000,C
+Overhead Tramway,1900,2000,C
+Unmanned Gas Rig,1940,200,D
+Waste Transfer Station,1930,5000,C
+Unprotected Sewer System,1800,10000,D
+Underground Power Line,1940,10000,C
+Rural Telephone Tower,1900,100,C
+Farm Irrigation Canal,1850,5000,C
+Oil Storage Tank,1920,5000,D
+Abandoned Quarry,1700,5000,D
+Cable Car,1900,1000,C
+Old Fire Station,1800,1000,D
+Rustic Bridge,1700,500,D
+Suspended Pedestrian Walkway,1930,1000,C
+Old Water Tower,1900,5000,D
+Airship Dock,1910,5000,D
+Defunct Mine Shaft,1850,500,D
+Substandard Housing,1920,1000,D
+Slum Housing,1700,500,C
+Military Bunker,1940,500,B
+Overcrowded Prison,1800,1000,D
+Temporary Housing,1950,500,C
+Derelict Factory,1900,10000,D
+Old Water Reservoir,1850,5000,C
+Defunct Power Plant,1950,20000,D
+Rustic Wooden Bridge,1700,5000,D
+Parking Structure,1920,1000,C
+Unreinforced Concrete Wall,1930,5000,D
+Old Oil Refinery,1800,10000,C
+Dilapidated Warehouse,1900,5000,D
+Wooden High-rise,1700,5000,D
+Temporary Shelter,1940,100,C
+Rusty Dock,1900,1000,D
+Old Railway Tunnel,1850,2000,D
+Unmaintained Sports Stadium,1930,30000,D
+Unsealed Road,1800,1000,D
+Underground Mining Tunnel,1850,1000,D
+Deficient Overpass,1920,2000,C
+Overloaded Bus Terminal,1900,5000,D
+Uninsulated Power Station,1950,10000,D
+Unsafe Coal Mine,1900,5000,D
+Collapsed Bridge,1700,500,D
+Unshielded Nuclear Waste Site,1950,100,D
+Old Power Line,1800,20000,C
+Rusting Pipeline,1900,10000,D
+Dilapidated Tunnel,1850,5000,D
+Exposed Oil Pipeline,1930,2000,D
+Corroded Railway Track,1850,10000,D
+Abandoned Airport,1930,10000,D
+Temporary Rail Yard,1910,5000,C
+Worn-out Water Pump,1900,5000,D
+Unsafe Water Supply System,1800,5000,D
+Deteriorating Skyscraper,1900,1000,D
+Fire-prone Forest Path,1930,500,C
+Small Scale Landfill,1850,5000,D
+Old Fuel Depot,1800,2000,D
+High Risk Dam,1920,50000,D
+Decommissioned Nuclear Plant,1950,5000,D
+Overburdened Sewer System,1910,10000,D
+Corroded Tanker,1900,10000,D
+Defunct Rail Bridge,1800,5000,D
+Tainted Water Reservoir,1700,1000,D
+Unsafe Asbestos Building,1930,2000,D
+Rough Terrain Access Road,1800,1000,D
+Shoreline Erosion Barrier,1920,20000,C
+Deficient Highway,1900,10000,D
+Rusting Windmill,1950,5000,D
+Unsafe Stilted House,1700,1000,D
+Collapsed Mine Shaft,1850,500,D
+Mothballed Refinery,1900,5000,D
+Exposed Electrical Substation,1930,10000,D
+Degraded Highway Overpass,1920,5000,D
+Contaminated Groundwater System,1900,1000,D
+Rundown Dam,1850,10000,D
+Collapsed Concrete Structure,1930,2000,D
+Unsafe Dam Spillway,1900,5000,D
+Unstable Bridge Deck,1800,1000,D
+Rural Power Distribution System,1920,10000,C
+Cracked Wind Turbine,1980,5000,D
+Rustic Tunnel,1700,2000,D
+Overused Port Terminal,1950,5000,D
+Abandoned Cargo Ship,1800,1000,D
+Old Utility Pole,1900,5000,D
+Crumbling Aqueduct,1700,5000,D
+Unsafe Offshore Oil Rig,1940,500,D
+Outdated Fire Escape,1850,100,D

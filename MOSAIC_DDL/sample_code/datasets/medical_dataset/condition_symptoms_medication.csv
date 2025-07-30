@@ -1,0 +1,327 @@
+condition,symptoms,medication
+Hypertension,Headache dizziness,Lisinopril
+Diabetes Mellitus,Frequent urination increased thirst fatigue,Metformin
+Asthma,Shortness of breath wheezing coughing,Albuterol inhaler
+Migraine,Severe headache nausea sensitivity to light,Sumatriptan
+Hypothyroidism,Fatigue weight gain cold intolerance,Levothyroxine
+Anemia,Fatigue pale skin shortness of breath,Iron supplements
+Bronchitis,Cough mucus production chest discomfort,Azithromycin
+Depression,Persistent sadness loss of interest fatigue,Sertraline
+Allergic Rhinitis,Sneezing runny nose itchy eyes,Loratadine
+Gastroesophageal Reflux Disease GERD,Heartburn acid reflux chest pain,Omeprazole
+Osteoarthritis,Joint pain stiffness reduced mobility,Ibuprofen
+Pneumonia,Fever cough with phlegm shortness of breath,Amoxicillin
+Anxiety,Restlessness rapid heartbeat sweating,Diazepam
+Chronic Kidney Disease,Swelling fatigue changes in urination,ACE inhibitors
+Influenza,Fever chills muscle aches,Oseltamivir
+Psoriasis,Red scaly skin patches itching,Topical corticosteroids
+Chronic Obstructive Pulmonary Disease COPD,Shortness of breath chronic cough wheezing,Tiotropium
+Hyperlipidemia,Usually asymptomatic sometimes chest pain,Atorvastatin
+Urinary Tract Infection UTI,Burning urination frequent urination pelvic pain,Trimethoprim Sulfamethoxazole
+Hypoglycemia,Sweating confusion shakiness,Glucose tablets
+Schizophrenia,Hallucinations delusions disorganized speech,Risperidone
+Epilepsy,Seizures loss of consciousness muscle spasms,Phenytoin
+Gout,Joint pain swelling redness,Allopurinol
+Tuberculosis,Persistent cough night sweats weight loss,Isoniazid
+Hypotension,Dizziness fainting fatigue,Fludrocortisone
+Cirrhosis,Jaundice abdominal swelling fatigue,Diuretics
+Multiple sclerosis,Muscle weakness vision problems numbness,Interferon beta
+Parkinsons disease,Tremor stiffness slow movement,Levodopa
+Celiac disease,Diarrhea abdominal pain weight loss,Gluten free diet
+Rheumatoid arthritis,Joint pain swelling morning stiffness,Methotrexate
+Anaphylaxis,Swelling difficulty breathing low blood pressure,Epinephrine
+Appendicitis,Abdominal pain nausea fever,Surgical removal
+Bipolar disorder,Mood swings depression mania,Lithium
+COPD exacerbation,Increased cough sputum production shortness of breath,Prednisone
+Chickenpox,Rash fever itching,Calamine lotion
+Dengue fever,Fever rash muscle pain,Paracetamol
+Deep vein thrombosis,Leg pain swelling redness,Heparin
+Eczema,Itchy dry skin redness,Topical corticosteroids
+Glaucoma,Eye pain blurred vision headache,Latanoprost
+Heart failure,Shortness of breath fatigue swollen legs,Digoxin
+Hepatitis B,Fatigue jaundice abdominal pain,Entecavir
+HIV AIDS,Fever weight loss night sweats,Antiretroviral therapy
+Hyperthyroidism,Weight loss palpitations heat intolerance,Propylthiouracil
+Inflammatory bowel disease,Diarrhea abdominal pain weight loss,Mesalamine
+Lupus,Fatigue joint pain rash,Hydroxychloroquine
+Lyme disease,Fever rash joint pain,Doxycycline
+Malaria,Fever chills sweating,Artemisinin
+Melanoma,Changing mole skin lesion itching,Surgical excision
+Meningitis,Fever neck stiffness headache,Ceftriaxone
+Mononucleosis,Fatigue sore throat swollen glands,Rest and fluids
+Osteoporosis,Fractures back pain loss of height,Calcium and Vitamin D
+Otitis media,Ear pain fever hearing loss,Amoxicillin
+Pancreatitis,Severe abdominal pain nausea vomiting,IV fluids and pain control
+Peptic ulcer disease,Abdominal pain nausea bloating,Omeprazole
+Pneumothorax,Chest pain shortness of breath sudden collapse,Chest tube insertion
+Polycystic ovary syndrome,Irregular periods weight gain excess hair,Metformin
+Post traumatic stress disorder,Flashbacks nightmares anxiety,Psychotherapy
+Prostate cancer,Difficulty urinating pelvic pain blood in urine,Prostatectomy
+Psoriatic arthritis,Joint pain skin rash stiffness,NSAIDs
+Schistosomiasis,Fever abdominal pain blood in urine or stool,Praziquantel
+Sinusitis,Facial pain nasal congestion headache,Amoxicillin
+Sleep apnea,Snoring daytime fatigue morning headache,CPAP machine
+Stroke,Weakness on one side difficulty speaking facial droop,Clot busting drugs
+Systemic sclerosis,Skin thickening Raynauds phenomenon fatigue,Immunosuppressants
+Tinnitus,Ringing in ears hearing loss,None specific
+Tonsillitis,Sore throat difficulty swallowing fever,Antibiotics
+Tuberculosis,Fever night sweats weight loss,Rifampin
+Ulcerative colitis,Diarrhea abdominal pain blood in stool,Mesalamine
+Urinary incontinence,Urge to urinate leakage,Kegel exercises and medications
+Vertigo,Dizziness nausea imbalance,Meclizine
+Vitamin D deficiency,Fatigue bone pain muscle weakness,Vitamin D supplements
+Whooping cough,Severe coughing fits vomiting difficulty breathing,Azithromycin
+Wound infection,Redness swelling pus,Antibiotics
+Zika virus,Fever rash joint pain,None specific supportive care
+Acne,Inflamed skin pimples blackheads,Topical benzoyl peroxide
+Acute bronchitis,Cough fatigue chest discomfort,Rest fluids and cough suppressants
+Acute lymphoblastic leukemia,Fatigue fever frequent infections,Chemotherapy
+Acute pancreatitis,Severe abdominal pain nausea vomiting,Hospitalization and IV fluids
+Alcoholism,Cravings withdrawal tremors,Detox and counseling
+Anorexia nervosa,Extreme weight loss fatigue,Dietary therapy and counseling
+Atrial fibrillation,Palpitations fatigue shortness of breath,Anticoagulants beta blockers
+Bacterial meningitis,Fever neck stiffness headache,Antibiotics
+Bacterial pneumonia,Fever cough chest pain,Antibiotics
+Bell palsy,Facial weakness drooping,Prednisone
+Benign prostatic hyperplasia,Urinary urgency weak stream,Tamsulosin
+Bipolar disorder,Mood swings depression mania,Lithium and mood stabilizers
+Bladder cancer,Blood in urine frequent urination,Surgery chemotherapy
+Bone fracture,Pain swelling deformity,Immobilization surgery
+Breast cancer,Lump nipple changes pain,Surgery radiation chemotherapy
+Bronchiectasis,Chronic cough mucus production,Antibiotics and physiotherapy
+Bulimia nervosa,Binge eating vomiting electrolyte imbalance,Psychotherapy and medication
+Burns,Pain redness blistering,Topical antibiotics and wound care
+Carpal tunnel syndrome,Numbness tingling hand pain,Splints and surgery
+Cataracts,Blurry vision sensitivity to light,Surgery
+Chlamydia,Genital discharge pain during urination,Antibiotics
+Chronic fatigue syndrome,Fatigue muscle pain memory problems,Supportive care
+Chronic myeloid leukemia,Fatigue weight loss night sweats,Tyrosine kinase inhibitors
+Chronic sinusitis,Nasal congestion facial pain,Antibiotics and nasal sprays
+Chronic stress,Anxiety headaches sleep problems,Stress management therapy
+Cluster headache,Severe unilateral headache tearing,Triptans and oxygen therapy
+Cirrhosis,Fatigue jaundice abdominal swelling,Diuretics and lifestyle changes
+Common cold,Sneezing sore throat runny nose,Rest and fluids
+Congestive heart failure,Shortness of breath swelling fatigue,Diuretics and ACE inhibitors
+Constipation,Infrequent hard stools abdominal discomfort,Laxatives and dietary fiber
+COPD exacerbation,Worsening cough increased sputum shortness of breath,Corticosteroids and antibiotics
+Crohn's disease,Abdominal pain diarrhea weight loss,Anti inflammatory drugs
+Cystic fibrosis,Chronic cough lung infections digestive problems,Chest physiotherapy and enzyme supplements
+Deep vein thrombosis,Leg swelling pain redness,Anticoagulants
+Dementia,Memory loss confusion personality changes,Supportive care and medications
+Depression,Persistent sadness loss of interest fatigue,SSRIs and therapy
+Diabetic ketoacidosis,Nausea vomiting abdominal pain,IV fluids insulin
+Diabetic neuropathy,Numbness tingling pain in extremities,Pain management and glucose control
+Diverticulitis,Abdominal pain fever nausea,Antibiotics and diet modification
+Eczema,Itchy dry skin redness,Topical steroids and moisturizers
+Emphysema,Shortness of breath chronic cough,Inhalers oxygen therapy
+Epilepsy,Seizures loss of consciousness,Anticonvulsants
+Fibromyalgia,Widespread pain fatigue sleep problems,Pain relievers antidepressants
+Gallstones,Abdominal pain nausea vomiting,Surgery or lithotripsy
+Gastritis,Abdominal pain nausea indigestion,Antacids and antibiotics
+GERD,Heartburn acid reflux chest discomfort,Proton pump inhibitors
+Glaucoma,Vision loss eye pain,Eye drops surgery
+Gonorrhea,Painful urination discharge,Antibiotics
+Graves disease,Weight loss palpitations heat intolerance,Antithyroid drugs
+Guillain-Barre syndrome,Muscle weakness tingling paralysis,Plasma exchange immunoglobulins
+Head trauma,Headache confusion dizziness,Observation surgery
+Heart attack,Chest pain shortness of breath nausea,Aspirin and emergency care
+Hepatitis C,Fatigue jaundice abdominal pain,Antiviral therapy
+Herpes simplex virus,Blistering sores pain,Antiviral medications
+HIV infection,Fever weight loss night sweats,Antiretroviral therapy
+Hip fracture,Pain inability to move leg,Surgery and rehabilitation
+Hypercalcemia,Nausea vomiting weakness,IV fluids and medications
+Hyperthyroidism,Weight loss palpitations heat intolerance,Antithyroid drugs
+Hypospadias,Abnormal urethral opening,Corrective surgery
+Hypothermia,Shivering confusion slow breathing,Warming measures
+Impetigo,Red sores crusting,Topical or oral antibiotics
+Inflammatory bowel disease,Diarrhea abdominal pain bleeding,Anti inflammatory drugs
+Insect sting allergy,Swelling itching difficulty breathing,Epinephrine and antihistamines
+Insomnia,Difficulty sleeping fatigue irritability,Sleep hygiene and medication
+Iron deficiency anemia,Fatigue pallor weakness,Iron supplements
+Kidney stones,Severe flank pain nausea vomiting,Pain relief hydration surgery
+Lactose intolerance,Bloating diarrhea abdominal cramps,Dietary changes and enzyme supplements
+Laryngeal cancer,Hoarseness sore throat lump,Surgery radiation chemotherapy
+Legionnaires disease,Fever cough shortness of breath,Antibiotics
+Leukemia,Fatigue bruising infections,Chemotherapy bone marrow transplant
+Liver failure,Jaundice confusion bleeding,Supportive care transplant
+Lupus,Fatigue joint pain rash,Immunosuppressants
+Lyme disease,Fever rash joint pain,Doxycycline antibiotics
+Malaria,Fever chills sweating,Antimalarial drugs
+Melanoma,Skin lesion changes itching,Surgery and immunotherapy
+Meningitis,Fever neck stiffness headache,Antibiotics or antivirals
+Mesothelioma,Chest pain cough shortness of breath,Surgery chemotherapy radiation
+Migraine,Severe headache nausea sensitivity to light,Triptans pain relievers
+Multiple sclerosis,Muscle weakness vision problems numbness,Immunomodulatory drugs
+Myocardial infarction,Chest pain sweating nausea,Emergency care and medication
+Narcolepsy,Excessive daytime sleepiness sudden muscle weakness,Sodium oxybate and stimulants
+Nephrotic syndrome,Swelling fatigue protein in urine,Steroids diuretics
+Osteoarthritis,Joint pain stiffness swelling,Pain relievers physical therapy
+Osteoporosis,Fractures bone pain loss of height,Calcium vitamin D bisphosphonates
+Parkinson disease,Tremor stiffness slow movement,Levodopa dopamine agonists
+Peptic ulcer,Abdominal pain nausea indigestion,Antacids antibiotics
+Pneumonia,Fever cough chest pain,Antibiotics or antivirals
+Polycystic kidney disease,High blood pressure kidney pain,Care for symptoms dialysis transplant
+Psoriasis,Red scaly skin itching,Topical steroids phototherapy
+Pulmonary embolism,Chest pain shortness of breath,Coumadin anticoagulants
+Rheumatoid arthritis,Joint pain swelling stiffness,Methotrexate biologics
+Sciatica,Lower back pain leg numbness,Pain relief physical therapy
+Scoliosis,Spine curvature back pain,Bracing or surgery
+Sepsis,Fever rapid heart rate confusion,IV antibiotics and fluids
+Shingles,Rash pain itching,Antiviral medications
+Sinusitis,Facial pain nasal congestion headache,Decongestants antibiotics
+Sleep apnea,Snoring daytime sleepiness,CPAP machine
+Stroke,Weakness speech difficulty walking,Emergency treatment rehabilitation
+Systemic sclerosis,Skin thickening Raynauds phenomenon,Immunosuppressants
+Tendinitis,Pain swelling joint,Rest ice NSAIDs
+Tonsillitis,Sore throat fever difficulty swallowing,Antibiotics or surgery
+Tuberculosis,Fever night sweats weight loss,Antibiotic regimen
+Ulcerative colitis,Diarrhea abdominal pain bleeding,Anti inflammatory drugs
+Urinary tract infection,Burning urination frequency urgency,Antibiotics
+Vitamin B12 deficiency,Fatigue numbness memory loss,B12 injections or supplements
+Whooping cough,Severe coughing vomiting difficulty breathing,Antibiotics
+Acute kidney injury,Decreased urine output swelling confusion,IV fluids dialysis
+Alcoholic hepatitis,Fever jaundice abdominal pain,Abstinence corticosteroids
+Amyotrophic lateral sclerosis,Muscle weakness difficulty speaking breathing support,Supportive care riluzole
+Anaphylactic shock,Difficulty breathing swelling low blood pressure,Epinephrine corticosteroids
+Aortic aneurysm,Chest or back pain pulsating mass,Surgery monitoring
+Astigmatism,Blurred vision eye strain,Glasses contact lenses surgery
+Bells palsy,Facial weakness drooping,Prednisone antiviral therapy
+Binge eating disorder,Binge eating guilt depression,Psychotherapy medication
+Bladder infection,Painful urination urgency frequency,Antibiotics
+Bowel obstruction,Abdominal pain vomiting constipation,Surgery nasogastric tube
+Brain tumor,Headache seizures nausea,Surgery radiation chemotherapy
+Breast cyst,Painless lump,Observation or drainage
+Bronchial asthma,Shortness of breath wheezing coughing,Inhalers corticosteroids
+Bulimia,Recurrent binge eating vomiting electrolyte imbalance,Psychotherapy medications
+Carcinoma of lung,Cough weight loss chest pain,Surgery chemotherapy radiation
+Cataract,Cloudy vision glare,Surgery
+Cellulitis,Redness swelling warmth pain,Antibiotics
+Cervical cancer,Abnormal bleeding pelvic pain,Surgery chemotherapy radiation
+Chronic diarrhea,Frequent loose stools abdominal cramps,Treatment of underlying cause
+Chronic headache,Recurrent head pain nausea triggers,Pain relief preventive medications
+Chronic pancreatitis,Abdominal pain weight loss malabsorption,Pain control enzyme supplements
+Chronic sinus infection,Nasal congestion facial pain,Antibiotics nasal steroids
+Cirrhosis,Fatigue jaundice swelling,Diuretics liver transplant
+Clostridium difficile infection,Severe diarrhea abdominal pain,Antibiotics fecal transplant
+Cluster headache,Severe unilateral headache tearing,Triptans oxygen therapy
+Coeliac disease,Diarrhea bloating fatigue,Gluten free diet
+Common cold,Sneezing runny nose sore throat,Rest fluids
+Congenital heart disease,Shortness of breath cyanosis surgery,Monitoring surgery
+Congestive heart failure,Shortness of breath swelling fatigue,Diuretics ACE inhibitors
+Constipation,Infrequent hard stools bloating,Laxatives fiber supplements
+Coronary artery disease,Chest pain shortness of breath,Statins aspirin surgery
+Crohns disease,Diarrhea abdominal pain weight loss,Anti inflammatory drugs
+Cushings syndrome,Weight gain hypertension diabetes,Medications surgery
+Depression,Persistent sadness loss of interest fatigue,Antidepressants psychotherapy
+Dermatitis,Itchy red rash swelling,Topical steroids antihistamines
+Diabetic neuropathy,Numbness tingling pain in feet,Pain management glucose control
+Diabetic retinopathy,Blurred vision vision loss,Laser therapy injections
+Diabetes mellitus,Increased thirst frequent urination fatigue,Insulin metformin
+Diarrhea,Loose watery stools dehydration,Oral rehydration antibiotics
+Diverticulitis,Lower abdominal pain fever nausea,Antibiotics diet modification
+Drug overdose,Nausea vomiting altered consciousness,Supportive care antidotes
+Dysmenorrhea,Painful menstrual cramps,NSAIDs hormonal therapy
+Ear infection,Ear pain fever hearing loss,Antibiotics pain relievers
+Eczema,Itchy dry skin rash,Moisturizers topical steroids
+Endometriosis,Pelvic pain heavy periods,Hormonal therapy surgery
+Esophageal reflux,Heartburn regurgitation chest discomfort,Antacids proton pump inhibitors
+Fibromyalgia,Widespread muscle pain fatigue,Exercise pain relievers antidepressants
+Gallstones,Abdominal pain nausea vomiting,Surgery medications
+Gastritis,Upper abdominal pain nausea indigestion,Antacids antibiotics
+Gastroenteritis,Diarrhea vomiting abdominal cramps,Hydration antibiotics if bacterial
+Gout,Severe joint pain swelling redness,NSAIDs colchicine allopurinol
+Graves disease,Weight loss palpitations heat intolerance,Antithyroid drugs beta blockers
+Headache,Head pain nausea sensitivity to light,Pain relief preventive medications
+Hearing loss,Difficulty hearing muffled sounds,Hearing aids surgery
+Heart attack,Chest pain shortness of breath nausea,Emergency care medications
+Hepatitis B,Fatigue jaundice abdominal pain,Antiviral therapy
+Herniated disc,Back pain leg numbness weakness,Pain relief physical therapy surgery
+Herpes simplex virus,Blisters sores pain,Antiviral medications
+Hyperlipidemia,Usually asymptomatic chest pain risk,Statins lifestyle changes
+Hypertension,Headache dizziness chest pain,Antihypertensives lifestyle changes
+Impetigo,Red sores crusting,Topical oral antibiotics
+Influenza,Fever chills muscle aches,Antiviral medications rest fluids
+Insomnia,Difficulty falling staying asleep fatigue,Sleep hygiene medication
+Irritable bowel syndrome,Abdominal pain bloating diarrhea constipation,Dietary changes antispasmodics
+Lactose intolerance,Bloating diarrhea abdominal cramps,Dietary avoidance enzyme supplements
+Laryngitis,Hoarseness sore throat cough,Voice rest steroids
+Liver cirrhosis,Jaundice ascites fatigue,Supportive care transplant
+Melanoma,Skin lesion changes itching,Surgery immunotherapy
+Meningitis,Fever neck stiffness headache,Antibiotics antivirals
+Multiple sclerosis,Muscle weakness vision problems numbness,Immunomodulators
+Myocardial infarction,Chest pain sweating nausea,Emergency treatment medications
+Narcolepsy,Excessive daytime sleepiness muscle weakness,Medications lifestyle changes
+Nephrotic syndrome,Swelling fatigue proteinuria,Steroids diuretics
+Parkinsons disease,Tremor stiffness slow movement,Levodopa dopamine agonists
+Peptic ulcer disease,Abdominal pain nausea indigestion,Antacids antibiotics
+Pneumonia,Fever cough chest pain,Antibiotics antivirals
+Polycystic ovary syndrome,Irregular periods weight gain excess hair,Metformin hormonal therapy
+Pulmonary embolism,Chest pain shortness of breath,Anticoagulants thrombolytics
+Sepsis,Fever rapid heart rate confusion,IV antibiotics supportive care
+Sleep apnea,Snoring daytime fatigue,CPAP machine
+Vitamin B12 deficiency,Fatigue numbness memory loss,B12 injections supplements
+Acne vulgaris,Pimples oily skin blackheads,Topical retinoids benzoyl peroxide
+Acute otitis media,Ear pain fever irritability,Antibiotics analgesics
+Acute respiratory distress syndrome,Severe shortness of breath hypoxia,Mechanical ventilation steroids
+Alcohol withdrawal tremors,Anxiety sweating tremors,benzodiazepines fluids
+Allergic rhinitis,Sneezing runny nose itchy eyes,Antihistamines nasal sprays
+Amyloidosis,Fatigue swelling organ dysfunction,Treatment of underlying cause
+Anemia of chronic disease,Fatigue pallor weakness,Treat underlying disease
+Ankylosing spondylitis,Back pain stiffness reduced mobility,NSAIDs biologics
+Anorexia nervosa,Extreme weight loss fear of gaining weight,Behavior therapy nutritional support
+Aortic dissection,Severe chest pain back pain,Surgery emergency care
+Appendicitis,Right lower abdominal pain nausea,Surgical removal
+Arthritis,Osteoarthritis or Rheumatoid and Joint pain stiffness,NSAIDs DMARDs
+Asthma,Shortness of breath wheezing cough,Inhaled corticosteroids bronchodilators
+Atopic dermatitis,Itchy dry red rash,Moisturizers topical steroids
+Attention deficit hyperactivity disorder,Inattention hyperactivity impulsivity,Stimulants behavioral therapy
+Autism spectrum disorder,Social communication challenges repetitive behaviors,Behavioral therapy medications
+Bells palsy,Facial muscle weakness sudden onset,Prednisone antiviral meds
+Benign prostatic hyperplasia,Urinary urgency frequency weak stream,Alpha blockers surgery
+Bipolar disorder,Mood swings depression mania,Lithium antipsychotics mood stabilizers
+Bladder cancer,Blood in urine pelvic pain,Surgery chemotherapy radiation
+Bone fracture,Pain swelling deformity immobilization,Splints casts surgery
+Brain aneurysm,Headache vision problems loss of consciousness,Surgical clipping coiling
+Breast cancer,Lump nipple changes pain,Surgery chemotherapy radiation
+Bronchitis,Productive cough wheezing chest discomfort,Rest fluids bronchodilators
+Bulimia nervosa,Binge eating purging electrolyte imbalance,Psychotherapy antidepressants
+Celiac disease,Diarrhea weight loss abdominal pain,Gluten free diet
+Cellulitis,Red swollen painful skin,Antibiotics
+Cerebral palsy,Muscle stiffness coordination problems,Physical therapy medications surgery
+Chlamydia,Discharge painful urination,Antibiotics
+Chronic kidney disease,Fatigue swelling high blood pressure,Control symptoms dialysis transplant
+Chronic lymphocytic leukemia,Fatigue weight loss infections,Chemotherapy targeted therapy
+Chronic obstructive pulmonary disease,Chronic cough breathlessness,Inhalers oxygen therapy
+Chronic pain,Persistent pain fatigue,Analgesics physical therapy psychological support
+Chronic sinusitis,Nasal congestion facial pain,Antibiotics nasal steroids
+Congenital hypothyroidism,Failure to thrive jaundice constipation,Thyroid hormone replacement
+Congestive heart failure,Shortness of breath swelling fatigue,Diuretics ACE inhibitors beta blockers
+Constipation,Infrequent hard stools abdominal discomfort,Laxatives fiber
+COPD exacerbation,Worsening cough sputum breathlessness,Corticosteroids antibiotics
+Crohns disease,Diarrhea abdominal pain weight loss,Anti inflammatory drugs immunosuppressants
+Cushings syndrome,Weight gain round face hypertension,Medications surgery
+Deep vein thrombosis,Leg pain swelling redness,Anticoagulants
+Dementia,Memory loss confusion personality changes,Supportive care medications
+Depression,Sadness loss of interest fatigue,Antidepressants psychotherapy
+Diabetes mellitus,Increased thirst frequent urination fatigue,Insulin oral hypoglycemics
+Diabetic retinopathy,Vision loss blurred vision,Laser therapy injections
+Diabetic neuropathy,Numbness tingling foot pain,Pain management glycemic control
+Diarrhea,Frequent watery stools dehydration,Rehydration antimotility agents
+Diverticulitis,Lower abdominal pain fever nausea,Antibiotics diet changes
+Down syndrome,Developmental delay characteristic facial features,Supportive care therapy
+Dysmenorrhea,Painful menstruation cramping,NSAIDs hormonal contraceptives
+Eczema,Itchy red rash dry skin,Moisturizers topical steroids
+Esophageal cancer,Difficulty swallowing chest pain,Chemo radiation surgery
+Esophageal reflux,Heartburn acid regurgitation chest discomfort,Antacids proton pump inhibitors
+Fibromyalgia,Widespread pain fatigue sleep issues,Pain relievers antidepressants
+Gallstones,Abdominal pain nausea vomiting,Surgery lithotripsy
+Gastroenteritis,Diarrhea vomiting abdominal cramps,Rehydration antibiotics
+Gout,Joint pain swelling redness,NSAIDs colchicine allopurinol
+Head injury,Headache dizziness confusion observation,Supportive care surgery
+Heart attack,Chest pain sweating nausea,Aspirin emergency treatment
+Hyperlipidemia,Usually asymptomatic risk of heart disease,Statins lifestyle changes
+Impetigo,Red sores crusting,Antibiotics
+Influenza,Fever chills muscle aches,Antiviral drugs rest fluids
+Irritable bowel syndrome,Abdominal pain diarrhea constipation bloating,Diet changes antispasmodics
+Lactose intolerance,Bloating diarrhea abdominal cramps,Dietary avoidance lactase supplements
+Liver cirrhosis,Jaundice swelling fatigue,Supportive care liver transplant

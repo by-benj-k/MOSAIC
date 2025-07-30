@@ -1,0 +1,3 @@
+# MOSAIC_DDL - Sample Code
+
+MOSAIC provides a sample instantiation of the framework. To try it out, please move the file "MOSAIC_DDL/sample_code/configuration.xml" to the folder "MOSAIC_DDL/configurations/" and the file "MOSAIC_DDL/sample_code/sampling_procedures.py" to the folder "MOSAIC_DDL/". Moreover, uncomment the generate_seeds and generate_documents functions in the main module (and possibly validation and evaluation functions if you are interested). Feel free to play around with the provided sample configuration file and the settings in "MOSAIC_DDL/config_framework.py". The resulting documents will be stored in "MOSAIC_DDL/generations/".

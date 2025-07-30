@@ -1,0 +1,357 @@
+type,construction,floors
+Residential House,1800,2
+Skyscraper,1880,100
+Apartment Building,1850,50
+Office Building,1900,50
+Church,300,10
+Warehouse,1700,3
+Hospital,1700,15
+Library,1600,5
+School,1200,10
+Museum,1200,5
+Theater,1500,5
+Hotel,1800,20
+Shopping Mall,1950,6
+Factory,1800,4
+Parking Garage,1950,10
+Train Station,1800,3
+Airport Terminal,1900,5
+Power Plant,1900,3
+Post Office,1700,3
+Court House,1700,5
+City Hall,1700,6
+Town Hall,1500,3
+Convention Center,1900,4
+Casino,1800,20
+Stadium,1900,5
+Arena,1900,5
+Arena Complex,1980,5
+Library,1500,4
+Convention Center,1980,5
+University Building,1600,15
+Research Lab,1900,4
+Mansion,1600,4
+Villa,1700,3
+Château,1500,3
+Palace,1000,10
+Fortress,1000,4
+Prison,1800,5
+Hotel Tower,1950,30
+High-Rise Residential,1960,50
+Townhouse,1800,3
+Penthouse,1900,2
+Condominium,1950,50
+Loft,1900,5
+Bungalow,1900,2
+Cottage,1600,2
+Barn,1500,2
+Greenhouse,1700,3
+Shed,1500,1
+Farmhouse,1700,3
+Cabin,1800,2
+Lighthouse,1600,3
+Observatory,1800,3
+Windmill,1400,1
+Water Tower,1900,5
+Telecommunications Tower,1950,30
+Skid Row Housing,1900,5
+Public Housing,1950,10
+Luxury Apartment,2000,20
+Boutique Hotel,1900,5
+Co-working Space,2000,5
+Warehouse Loft,1900,4
+Town Center,1800,4
+Embassy,1800,5
+Civic Center,1900,6
+Sky Garden,2000,20
+Swimming Pool Complex,2000,3
+Skyscraper Hotel,1950,50
+Health Club,1800,5
+Theater Complex,1900,10
+Opera House,1800,5
+Art Gallery,1700,4
+Sports Complex,1900,6
+Amphitheater,1500,3
+Solar Power Plant,1950,5
+Wind Farm,1900,3
+Residential Tower,1950,60
+Sky Scraper Office,1920,100
+Waterfront Building,1950,4
+Eco-building,2000,5
+Smart Home,2000,2
+Community Center,1900,3
+Eco Village,2000,3
+Shopping Center,1960,6
+Skyscraper Apartment,1960,50
+Mixed-Use Building,1970,30
+Skybridge,1950,2
+Urban Farm Building,2000,5
+Bio-Dome,2000,3
+Sports Arena,1990,5
+Camping Hut,1700,1
+Amusement Park Building,1900,4
+Modular Housing,2000,3
+Conservatory,1700,3
+Dome Home,1950,2
+Geodesic Dome,1950,3
+Yurt,1200,1
+Marina Building,1800,3
+Boat House,1600,2
+Observatory Tower,1700,3
+Fire Station,1800,4
+Gas Station,1920,2
+Petrol Station,1950,2
+Substation,1900,5
+Tunnel Entrance Building,1900,3
+Bridge Building,1700,2
+Grain Elevator,1800,4
+Ice Rink Building,1900,4
+City Tower,1900,10
+Brewery,1700,3
+Ski Lodge,1900,3
+Grocery Store,1800,3
+Supermarket,1950,4
+Food Court,2000,2
+Highway Rest Area,1900,3
+Rest Stop,2000,2
+Aerospace Factory,1900,4
+Aquarium,1800,3
+Arcade,1920,2
+Art Deco Building,1920,5
+Assembly Plant,1800,3
+Auto Dealership,1950,2
+Aviation Hangar,1920,3
+Banquet Hall,1800,2
+Bar,1900,2
+Barracks,1800,3
+Baseball Stadium,1900,5
+Basketball Arena,1900,5
+Beach House,1800,3
+Billiards Hall,1900,2
+Brewpub,1800,2
+Broadcast Tower,1920,10
+Building Materials Factory,1800,3
+Bus Station,1900,2
+Cafe,1800,1
+Car Showroom,1950,2
+Cemetery Chapel,1700,2
+Chalet,1800,2
+Chiropractic Office,1900,2
+Cinema,1900,5
+Clothing Store,1800,2
+Clock Tower,1500,3
+Clubhouse,1900,3
+Coffee Shop,1800,1
+Community Hall,1800,3
+Concert Hall,1900,5
+Conservation Center,2000,3
+Convention Hall,1980,4
+Courier Depot,1900,2
+Cultural Center,1900,4
+Dance Studio,1900,2
+Data Center,1990,5
+Daycare Center,1900,2
+Department Store,1900,4
+Distillery,1800,3
+Docking Station,1800,2
+Document Storage Facility,2000,3
+Electricity Substation,1950,5
+Emergency Room,1800,4
+Emporium,1800,3
+Exhibition Hall,1900,4
+Factory Outlet,1950,3
+Fast Food Restaurant,1950,2
+Fitness Center,1980,5
+Flats,1950,30
+Flower Shop,1800,1
+Food Processing Plant,1800,3
+Football Stadium,1900,5
+Forest Ranger Station,1800,2
+Foundry,1800,3
+Furnace Building,1800,3
+Gas Refinery,1900,5
+General Store,1800,2
+Grocery Warehouse,1900,3
+Gymnasium,1900,3
+Harbor Building,1800,4
+Health Clinic,1900,3
+Highway Toll Booth,1950,1
+Historic Landmark Building,1800,3
+Hospital Complex,1900,10
+House of Worship,1800,5
+Ice Cream Factory,1800,2
+Industrial Building,1800,3
+Infirmary,1700,2
+Institute Building,1900,5
+Jewelry Store,1800,2
+Kiosk,1700,1
+Laboratory,1900,5
+Laundromat,1950,1
+Library Complex,1900,5
+Lounge,1900,2
+Maternity Ward,1900,3
+Mechanical Workshop,1800,3
+Men's Club,1900,3
+Mills,1700,4
+Ministry Building,1800,5
+Music Venue,1900,4
+Nightclub,1900,3
+Office Complex,1960,10
+Opera Theater,1800,5
+Outdoor Amphitheater,1700,4
+Packing Facility,1800,4
+Palazzo,1700,6
+Pet Shop,1800,1
+Pharmacy,1900,2
+Photo Studio,1900,1
+Picnic Pavilion,1800,2
+Plaza Building,1800,5
+Playhouse,1900,2
+Police Station,1800,3
+Post Warehouse,1800,3
+Private Residence,1800,3
+Public Restroom Building,1900,1
+Racing Track,1900,3
+Railway Station,1800,4
+Recycling Plant,1900,4
+Resort Hotel,1900,20
+Retail Store,1900,3
+Riding Arena,1900,3
+Rural Cabin,1700,2
+Sawmill,1800,3
+Scenic Viewpoint,1900,1
+School Complex,1900,10
+Science Museum,1900,5
+Service Center,1900,2
+Shopping Plaza,1950,4
+Ski Resort Lodge,1900,3
+Social Club,1900,3
+Spaceport,2000,5
+Sports Club,1900,3
+Storage Facility,1800,4
+Supermarket Chain,1950,6
+Swim Club,1900,3
+Tech Hub,2000,10
+Television Station,1950,5
+Theater Complex,1900,6
+Tool Shop,1800,2
+Tourist Information Center,1900,2
+Train Depot,1800,3
+Underground Bunker,1950,3
+Urban Park Building,2000,2
+Utility Plant,1900,3
+Video Game Arcade,1980,2
+Visitor Center,1900,2
+Warehouse Complex,1900,6
+Welding Shop,1800,2
+Windmill Farm,1700,3
+Zoo Building,1800,4
+Amphibious House,2000,2
+Apartment Complex,1950,50
+Arcology,2000,100
+Arctic Research Station,1950,2
+Art Studio,1800,2
+Athletic Facility,1900,6
+Audio Recording Studio,1900,2
+Auto Parts Warehouse,1900,3
+Aviation Control Tower,1920,4
+Ballroom,1800,3
+Barge,1700,2
+Bunkhouse,1800,2
+Bureau Building,1800,5
+Cable Car Station,1900,2
+Canal Lock,1800,3
+Cargo Terminal,1900,4
+Carport,1950,1
+Cave House,1500,1
+Chamber of Commerce,1900,5
+Chapel,1700,3
+Charity Building,1900,4
+Civic Auditorium,1900,5
+Clothing Factory,1800,3
+Cold Storage Facility,1900,5
+Columned Temple,1000,3
+Commercial Tower,1980,50
+Condo Complex,1970,30
+Contemporary Art Gallery,2000,4
+Craft Brewery,1800,2
+Dance Hall,1900,3
+Dental Office,1900,2
+Depot,1900,3
+Design Studio,1900,2
+Dock Building,1800,4
+Dry Goods Store,1800,2
+Energy Research Facility,1950,5
+Engineering Lab,1950,5
+Equestrian Center,1900,3
+Exhibit Pavilion,1900,3
+Factory Outlet Mall,1950,5
+Film Studio,1920,4
+Fitness Club,1980,4
+Flotation Station,1950,2
+Forestry Center,1900,3
+Freight Terminal,1900,4
+Furniture Warehouse,1800,3
+Gasometer,1800,5
+General Hospital,1900,8
+Greenhouse Complex,1900,5
+Guest House,1900,3
+Hangar,1920,3
+Hunting Lodge,1700,2
+Ice Rink,1900,3
+Industrial Park,1950,5
+Inspiration Center,2000,3
+Institutional Building,1900,6
+Lawn Bowling Center,1900,3
+Laser Tag Arena,2000,3
+Library Tower,2000,5
+Lighthouse Complex,1800,4
+Lockhouse,1700,2
+Masonic Lodge,1800,3
+Military Barracks,1900,4
+Museum Pavilion,1900,4
+Observatory Dome,1900,3
+Opera House Tower,1900,8
+Orphanage,1800,3
+Outdoor Pool Complex,1950,3
+Parking Structure,1960,10
+Pastry Shop,1900,1
+Penthouse Suite,2000,1
+Pet Care Facility,2000,2
+Playground Pavilion,1950,1
+Police Headquarters,1900,5
+Post-Industrial Loft,1950,6
+Power Station,1900,4
+Presidential Palace,1800,5
+Prison Complex,1900,6
+Public Library,1900,5
+Ranch House,1700,2
+Recreational Center,1900,4
+Residential Tower Block,1980,50
+Retail Plaza,1950,5
+Rooftop Bar,2000,1
+Rural Workshop,1800,2
+Sailboat Dock,1700,2
+Science Laboratory,1900,5
+Storage Warehouse,1900,6
+Submarine Base,1950,2
+Surgical Center,1900,3
+Ski Lodge Complex,1900,5
+Ski Resort,2000,3
+Sports Hall,1900,5
+Suburban Home,1900,2
+Summer House,1800,2
+Tennis Club,1900,3
+Theatre,1800,4
+Timber Yard,1800,2
+Toll Plaza,1950,2
+Tower Block,1970,30
+Tower Building,1980,50
+Trade Show Center,2000,5
+Travel Lodge,1900,5
+Trench Shelter,1800,1
+Utility Warehouse,1900,5
+Vineyard,1700,3
+Welding Workshop,1800,2
+Wind Turbine Farm,2000,3
+Zoo Pavilion,1900,3

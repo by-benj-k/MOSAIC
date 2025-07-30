@@ -1,0 +1,361 @@
+type,manufacturer,production,fuel
+Car,Ford,1908,Gasoline
+Motorcycle,Honda,1949,Gasoline
+Truck,Freightliner,1942,Diesel
+Electric Car,Tesla,2008,Electric
+Bus,Mercedes-Benz,1924,Diesel
+Bicycle,Schwinn,1895,Human
+Scooter,Vespa,1946,Gasoline
+Tractor,John Deere,1837,Diesel
+Train,Siemens,1904,Electric
+Airplane,The Wright Brothers,1903,Gasoline
+Boat,Seadoo,1968,Gasoline
+Helicopter,Bell,1943,Jet Fuel
+Snowmobile,Ski-Doo,1959,Gasoline
+Submarine,USS Nautilus,1954,Nuclear
+Car,Chevrolet,1911,Gasoline
+Motorcycle,Yamaha,1953,Gasoline
+Truck,Dodge,1917,Gasoline
+Electric Car,Chevrolet,2010,Electric
+Bus,Volvo,1928,Diesel
+Bicycle,Trek,1976,Human
+Scooter,Piaggio,1884,Gasoline
+Tractor,Fendt,1937,Diesel
+Train,General Electric,1935,Electric
+Airplane,Boeing,1916,Jet Fuel
+Boat,MasterCraft,1968,Gasoline
+Helicopter,Sikorsky,1942,Jet Fuel
+Snowmobile,Arctic Cat,1960,Gasoline
+Submarine,USS Seawolf,1957,Nuclear
+Car,Nissan,1933,Gasoline
+Motorcycle,Harley-Davidson,1903,Gasoline
+Truck,Kenworth,1923,Diesel
+Electric Car,Lucid Motors,2020,Electric
+Bus,Bluebird,1927,Diesel
+Bicycle,Specialized,1974,Human
+Scooter,Honda,1954,Gasoline
+Tractor,Massey Ferguson,1953,Diesel
+Train,Alstom,2001,Electric
+Airplane,Airbus,1972,Jet Fuel
+Boat,Sunseeker,1969,Gasoline
+Helicopter,Aerospatiale,1955,Jet Fuel
+Snowmobile,Ski-Doo,1960,Gasoline
+Submarine,USS Ohio,1981,Nuclear
+Car,Volkswagen,1937,Gasoline
+Motorcycle,Suzuki,1952,Gasoline
+Truck,Peterbilt,1939,Diesel
+Electric Car,Rivian,2021,Electric
+Bus,Scania,1911,Diesel
+Bicycle,Cannondale,1983,Human
+Scooter,Aprilia,1968,Gasoline
+Tractor,New Holland,1895,Diesel
+Train,Hitachi,1956,Electric
+Airplane,Cessna,1927,Jet Fuel
+Boat,Sea Ray,1959,Gasoline
+Helicopter,Eurocopter,1992,Jet Fuel
+Snowmobile,Polaris,1954,Gasoline
+Submarine,USS Virginia,2004,Nuclear
+Car,Hyundai,1967,Gasoline
+Motorcycle,Kawasaki,1966,Gasoline
+Truck,Volvo,1928,Diesel
+Electric Car,Byton,2016,Electric
+Bus,Mercedes-Benz,1936,Diesel
+Bicycle,Giant,1972,Human
+Scooter,Kymco,1963,Gasoline
+Tractor,Caterpillar,1925,Diesel
+Train,SNCF,1938,Electric
+Airplane,Lockheed,1940,Jet Fuel
+Boat,Yamaha,1953,Gasoline
+Helicopter,McDonnell Douglas,1948,Jet Fuel
+Snowmobile,Yamaha,1968,Gasoline
+Submarine,USS Los Angeles,1976,Nuclear
+Car,Toyota,1937,Gasoline
+Motorcycle,Indian,1901,Gasoline
+Truck,International Harvester,1902,Gasoline
+Electric Car,NIO,2014,Electric
+Bus,Ford,1925,Diesel
+Bicycle,GT,1979,Human
+Scooter,Piaggio,1946,Gasoline
+Tractor,John Deere,1945,Diesel
+Train,Siemens,2000,Electric
+Airplane,Concorde,1969,Jet Fuel
+Boat,Glastron,1957,Gasoline
+Helicopter,Boeing,1947,Jet Fuel
+Snowmobile,Snow King,1965,Gasoline
+Submarine,USS Dolphin,1968,Nuclear
+Car,Porsche,1948,Gasoline
+Motorcycle,Ducati,1926,Gasoline
+Truck,Freightliner,1942,Diesel
+Electric Car,BMW,2013,Electric
+Bus,MAN,1925,Diesel
+Bicycle,Merida,1972,Human
+Scooter,Yamaha,1955,Gasoline
+Tractor,Case IH,1842,Diesel
+Train,Siemens,2014,Electric
+Airplane,Northrop Grumman,1974,Jet Fuel
+Boat,Lund,1948,Gasoline
+Helicopter,Bell,1943,Jet Fuel
+Snowmobile,Tundra,1965,Gasoline
+Submarine,USS New Mexico,2010,Nuclear
+Car,Ferrari,1947,Gasoline
+Motorcycle,BMW,1923,Gasoline
+Truck,Chevrolet,1918,Gasoline
+Electric Car,Volkswagen,2019,Electric
+Bus,Navistar,1922,Diesel
+Bicycle,Bianchi,1885,Human
+Scooter,Gilera,1950,Gasoline
+Tractor,Deutz-Fahr,1898,Diesel
+Train,GE Transportation,1969,Electric
+Airplane,McDonnell Douglas,1939,Jet Fuel
+Boat,Boston Whaler,1958,Gasoline
+Helicopter,Kawasaki,1960,Jet Fuel
+Snowmobile,Snowmobile Manufacturing,1965,Gasoline
+Submarine,USS Sturgeon,1959,Nuclear
+Car,Chrysler,1925,Gasoline
+Motorcycle,Suzuki,1952,Gasoline
+Truck,Volvo,1920,Diesel
+Electric Car,Audi,2018,Electric
+Bus,Isuzu,1927,Diesel
+Bicycle,Bell,1905,Human
+Scooter,Piaggio,1947,Gasoline
+Tractor,Valtra,1950,Diesel
+Train,Renfe,1964,Electric
+Airplane,McDonnell Douglas,1960,Jet Fuel
+Boat,Brunswick,1963,Gasoline
+Helicopter,Antonov,1973,Jet Fuel
+Snowmobile,Polaris,1956,Gasoline
+Submarine,USS Providence,1991,Nuclear
+Car,Audi,1968,Gasoline
+Motorcycle,Honda,1954,Gasoline
+Truck,International Harvester,1902,Gasoline
+Electric Car,Jaguar,2018,Electric
+Bus,Volvo,1929,Diesel
+Bicycle,Marin,1986,Human
+Scooter,Gilera,1953,Gasoline
+Tractor,New Holland,1948,Diesel
+Train,Thales,1965,Electric
+Airplane,Fokker,1912,Jet Fuel
+Boat,Seadoo,1978,Gasoline
+Helicopter,AgustaWestland,1950,Jet Fuel
+Snowmobile,Ski-Doo,1962,Gasoline
+Submarine,USS Buffalo,1991,Nuclear
+Car,Chrysler,1924,Gasoline
+Motorcycle,KTM,1953,Gasoline
+Truck,Mack,1900,Gasoline
+Electric Car,Chevy,2016,Electric
+Bus,MAN,1925,Diesel
+Bicycle,Raleigh,1887,Human
+Scooter,Sym,1961,Gasoline
+Tractor,Fendt,1930,Diesel
+Train,GE Transportation,1999,Electric
+Airplane,Northrop Grumman,1985,Jet Fuel
+Boat,Chris-Craft,1924,Gasoline
+Helicopter,Sikorsky,1940,Jet Fuel
+Snowmobile,Yamaha,1955,Gasoline
+Submarine,USS Pasadena,1989,Nuclear
+Car,Peugeot,1889,Gasoline
+Motorcycle,Yamaha,1956,Gasoline
+Truck,Daimler,1896,Gasoline
+Electric Car,Nissan,2011,Electric
+Bus,Neoplan,1977,Diesel
+Bicycle,GT,1979,Human
+Scooter,Honda,1964,Gasoline
+Tractor,Claas,1913,Diesel
+Train,CNR,2007,Electric
+Airplane,McDonnell Douglas,1973,Jet Fuel
+Boat,Chaparral,1965,Gasoline
+Helicopter,Bell,1945,Jet Fuel
+Snowmobile,Polaris,1968,Gasoline
+Submarine,USS Pasadena,1980,Nuclear
+Car,Mercedes-Benz,1926,Gasoline
+Motorcycle,Ducati,1946,Gasoline
+Truck,Ford,1917,Diesel
+Electric Car,Volkswagen,2020,Electric
+Bus,Scania,1921,Diesel
+Bicycle,Specialized,1974,Human
+Scooter,Piaggio,1962,Gasoline
+Tractor,Deutz,1910,Diesel
+Train,Hitachi,1992,Electric
+Airplane,Lockheed Martin,1941,Jet Fuel
+Boat,Honda,1964,Gasoline
+Helicopter,Kawasaki,1959,Jet Fuel
+Snowmobile,Snowmobile Manufacturing,1965,Gasoline
+Submarine,USS Houston,1982,Nuclear
+Car,Lexus,1989,Gasoline
+Motorcycle,BMW,1923,Gasoline
+Truck,Kenworth,1924,Diesel
+Electric Car,Tesla,2015,Electric
+Bus,Ford,1937,Diesel
+Bicycle,Cannondale,1983,Human
+Scooter,Piaggio,1947,Gasoline
+Tractor,Case IH,1935,Diesel
+Train,Siemens,2005,Electric
+Airplane,Airbus,1972,Jet Fuel
+Boat,Sea Ray,1969,Gasoline
+Helicopter,Boeing,1960,Jet Fuel
+Snowmobile,Tundra,1967,Gasoline
+Submarine,USS Seawolf,1986,Nuclear
+Car,Chevrolet,1955,Gasoline
+Motorcycle,Suzuki,1960,Gasoline
+Truck,Volvo,1930,Diesel
+Electric Car,Lucid Motors,2021,Electric
+Bus,Scania,1928,Diesel
+Bicycle,GT,1979,Human
+Scooter,Kymco,1968,Gasoline
+Tractor,Fendt,1937,Diesel
+Train,Renfe,1990,Electric
+Airplane,McDonnell Douglas,1980,Jet Fuel
+Boat,Boston Whaler,1962,Gasoline
+Helicopter,Kawasaki,1961,Jet Fuel
+Snowmobile,Polaris,1964,Gasoline
+Submarine,USS Michigan,1984,Nuclear
+Car,Ford,1905,Gasoline
+Motorcycle,Yamaha,1958,Gasoline
+Truck,Peterbilt,1939,Diesel
+Electric Car,Byton,2019,Electric
+Bus,Bluebird,1928,Diesel
+Bicycle,Merida,1972,Human
+Scooter,Vespa,1963,Gasoline
+Tractor,John Deere,1945,Diesel
+Train,Siemens,2004,Electric
+Airplane,Lockheed,1941,Jet Fuel
+Boat,MasterCraft,1965,Gasoline
+Helicopter,Sikorsky,1950,Jet Fuel
+Snowmobile,Arctic Cat,1961,Gasoline
+Submarine,USS Ohio,1994,Nuclear
+Car,Volkswagen,1950,Gasoline
+Motorcycle,Harley-Davidson,1948,Gasoline
+Truck,Freightliner,1945,Diesel
+Electric Car,Chevrolet,2020,Electric
+Bus,Volvo,1925,Diesel
+Bicycle,Specialized,1976,Human
+Scooter,Vespa,1948,Gasoline
+Tractor,Caterpillar,1930,Diesel
+Train,Thales,2002,Electric
+Airplane,Fokker,1910,Jet Fuel
+Boat,Seadoo,1969,Gasoline
+Helicopter,McDonnell Douglas,1963,Jet Fuel
+Snowmobile,Polaris,1965,Gasoline
+Submarine,USS Nautilus,1954,Nuclear
+Car,Fiat,1900,Gasoline
+Motorcycle,Honda,1965,Gasoline
+Truck,International,1927,Diesel
+Electric Car,Jaguar,2019,Electric
+Bus,Scania,1930,Diesel
+Bicycle,Cannondale,1979,Human
+Scooter,Kymco,1970,Gasoline
+Tractor,Claas,1915,Diesel
+Train,Alstom,2005,Electric
+Airplane,Cessna,1927,Jet Fuel
+Boat,Sea Ray,1973,Gasoline
+Helicopter,Bell,1949,Jet Fuel
+Snowmobile,Ski-Doo,1960,Gasoline
+Submarine,USS Virginia,2004,Nuclear
+Car,Toyota,1936,Gasoline
+Motorcycle,Bajaj,1945,Gasoline
+Truck,Isuzu,1916,Diesel
+Electric Car,Polestar,2020,Electric
+Bus,Mercedes-Benz,1926,Diesel
+Bicycle,Felt,1991,Human
+Scooter,Peugeot,1955,Gasoline
+Tractor,Massey Ferguson,1948,Diesel
+Train,Bombardier,1980,Electric
+Airplane,Concorde,1969,Jet Fuel
+Boat,Bayliner,1957,Gasoline
+Helicopter,Eurocopter,1992,Jet Fuel
+Snowmobile,Lynx,1966,Gasoline
+Submarine,USS Los Angeles,1976,Nuclear
+Car,Nissan,1933,Gasoline
+Motorcycle,Harley-Davidson,1903,Gasoline
+Truck,Freightliner,1942,Diesel
+Electric Car,Lucid Air,2021,Electric
+Bus,Tata,1960,Diesel
+Bicycle,Trek,1976,Human
+Scooter,Suzy,1962,Gasoline
+Tractor,Case IH,1935,Diesel
+Train,Siemens,2000,Electric
+Airplane,Antonov,1948,Jet Fuel
+Boat,Sunseeker,1969,Gasoline
+Helicopter,Russian Helicopters,1947,Jet Fuel
+Snowmobile,Artic Cat,1962,Gasoline
+Submarine,USS San Juan,1993,Nuclear
+Car,Hyundai,1967,Gasoline
+Motorcycle,Honda,1959,Gasoline
+Truck,Volvo,1928,Diesel
+Electric Car,Rivian,2021,Electric
+Bus,Optare,1985,Diesel
+Bicycle,GT,1972,Human
+Scooter,Gogoro,2015,Electric
+Tractor,Fendt,1930,Diesel
+Train,Hitachi,1992,Electric
+Airplane,Cessna,1927,Jet Fuel
+Boat,Chaparral,1961,Gasoline
+Helicopter,Kamov,1965,Jet Fuel
+Snowmobile,Ski-Doo,1965,Gasoline
+Submarine,USS Virginia,2004,Nuclear
+Car,Chevrolet,1911,Gasoline
+Motorcycle,Kawasaki,1966,Gasoline
+Truck,Mitsubishi,1917,Diesel
+Electric Car,Nissan Leaf,2010,Electric
+Bus,MAN,1923,Diesel
+Bicycle,Specialized,1974,Human
+Scooter,Sym,1961,Gasoline
+Tractor,New Holland,1948,Diesel
+Train,GE,2005,Electric
+Airplane,Lockheed,1942,Jet Fuel
+Boat,Moomba,1980,Gasoline
+Helicopter,AgustaWestland,1947,Jet Fuel
+Snowmobile,Yamaha,1970,Gasoline
+Submarine,USS Seawolf,1995,Nuclear
+Car,Ford,1903,Gasoline
+Motorcycle,Triumph,1902,Gasoline
+Truck,Peterbilt,1939,Diesel
+Electric Car,Chevy Bolt,2016,Electric
+Bus,Bluebird,1936,Diesel
+Bicycle,Cannondale,1982,Human
+Scooter,Piaggio,1960,Gasoline
+Tractor,Fendt,1945,Diesel
+Train,Alstom,1997,Electric
+Airplane,Fokker,1912,Jet Fuel
+Boat,Sea Ray,1981,Gasoline
+Helicopter,Sikorsky,1950,Jet Fuel
+Snowmobile,Polaris,1975,Gasoline
+Submarine,USS Pasadena,1985,Nuclear
+Car,BMW,1928,Gasoline
+Motorcycle,Yamaha,1954,Gasoline
+Truck,Kenworth,1923,Diesel
+Electric Car,Tesla Model S,2012,Electric
+Bus,Scania,1930,Diesel
+Bicycle,Merida,1987,Human
+Scooter,Tomos,1954,Gasoline
+Tractor,Caterpillar,1940,Diesel
+Train,Siemens,2003,Electric
+Airplane,Boeing,1958,Jet Fuel
+Boat,Chris-Craft,1962,Gasoline
+Helicopter,Kawasaki,1950,Jet Fuel
+Snowmobile,Snowmobile Manufacturing,1960,Gasoline
+Submarine,USS Ohio,1984,Nuclear
+Car,Mazda,1920,Gasoline
+Motorcycle,KTM,1950,Gasoline
+Truck,Daimler,1900,Gasoline
+Electric Car,Nissan,2017,Electric
+Bus,Neoplan,1967,Diesel
+Bicycle,Schwinn,1895,Human
+Scooter,Piaggio,1972,Gasoline
+Tractor,John Deere,1920,Diesel
+Train,Hitachi,1998,Electric
+Airplane,McDonnell Douglas,1985,Jet Fuel
+Boat,Honda,1966,Gasoline
+Helicopter,Eurocopter,1950,Jet Fuel
+Snowmobile,Arctic Cat,1968,Gasoline
+Submarine,USS Michigan,1983,Nuclear
+Hot Air Balloon,Montgolfier Brothers,1783,Hot Air
+Sailing Ship,East India Company,1600,Wind
+Galleon,Spanish Navy,1588,Wind
+Steam Locomotive,George Stephenson,1814,Steam
+Bicycle,Kirkpatrick Macmillan,1839,Manual
+Steamship,Robert Fulton,1807,Steam
+Tram,Siemens and Halske,1879,Electric
+Velocipede,Michaux et Cie,1867,Manual
+Steam Tractor,William Tuxford and Sons,1850,Steam
+Dirigible,Ferdinand von Zeppelin,1899,Gas

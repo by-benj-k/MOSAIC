@@ -1,0 +1,10 @@
+.env
+MOSAIC_DDL/**/__pycache__
+MOSAIC_DDL/configurations/*
+!MOSAIC_DDL/configurations/.gitkeep
+MOSAIC_DDL/generations/*
+!MOSAIC_DDL/generations/.gitkeep
+MOSAIC_DDL/results/*
+!MOSAIC_DDL/results/.gitkeep
+MOSAIC_DDL/sample_code/generations/*
+!MOSAIC_DDL/sample_code/generations/.gitkeep

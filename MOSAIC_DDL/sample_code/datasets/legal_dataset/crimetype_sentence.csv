@@ -1,0 +1,339 @@
+crimetype,sentence
+Theft,2 years imprisonment
+Burglary,3 years imprisonment
+Assault,4 years imprisonment
+Fraud,5 years imprisonment and $50000 fine
+Drug possession,1 year imprisonment and mandatory rehab
+Arson,7 years imprisonment
+Murder,Life imprisonment
+Manslaughter,10 years imprisonment
+Robbery,6 years imprisonment
+Embezzlement,4 years imprisonment and $100000 restitution
+Sexual assault,8 years imprisonment
+Domestic violence,3 years imprisonment and counseling
+Identity theft,2 years imprisonment and $25000 fine
+Vandalism,6 months imprisonment and community service
+Money laundering,7 years imprisonment
+Cybercrime,5 years imprisonment and computer usage ban
+Hit and run,3 years imprisonment and license suspension
+Kidnapping,15 years imprisonment
+Perjury,2 years imprisonment
+Tax evasion,3 years imprisonment and $75000 fine
+Illegal gambling,1 year imprisonment and $10000 fine
+Counterfeiting,5 years imprisonment
+Public intoxication,90 days imprisonment and fine
+Animal cruelty,1 year imprisonment and ban on pet ownership
+Bribery,4 years imprisonment and $50000 fine
+Illegal possession of firearms,3 years imprisonment
+Terrorism,20 years imprisonment
+Human trafficking,25 years imprisonment
+Driving under influence (DUI),1 year imprisonment and license suspension
+Resisting arrest,6 months imprisonment
+Forgery,2 years imprisonment and restitution
+Trespassing,6 months imprisonment and fine
+Stalking,2 years imprisonment and restraining order
+Shoplifting,1 year imprisonment or fine
+Extortion,5 years imprisonment
+Cyberbullying,1 year imprisonment and community service
+Illegal dumping,2 years imprisonment and heavy fines
+Environmental pollution,3 years imprisonment and remediation costs
+Child neglect,4 years imprisonment and loss of custody
+False imprisonment,3 years imprisonment
+Illegal border crossing,1 year imprisonment and deportation
+Contempt of court,6 months imprisonment
+Armed robbery,10 years imprisonment
+Insider trading,7 years imprisonment and large fines
+Smuggling,8 years imprisonment
+Drug trafficking,10 years imprisonment
+Harassment,1 year imprisonment and restraining order
+Assault with a deadly weapon,8 years imprisonment
+Illegal wiretapping,3 years imprisonment
+Illegal surveillance,2 years imprisonment
+Credit card fraud,3 years imprisonment and restitution
+Blackmail,5 years imprisonment
+Tax fraud,4 years imprisonment and fines
+Copyright infringement,1 year imprisonment and fines
+Illegal protest,90 days imprisonment
+Vehicular manslaughter,7 years imprisonment
+Attempted murder,15 years imprisonment
+Sex trafficking,20 years imprisonment
+Forgery of government documents,4 years imprisonment
+Illegal sale of prescription drugs,5 years imprisonment
+Cyber theft,6 years imprisonment
+Illegal mining,3 years imprisonment and fines
+Money counterfeiting,7 years imprisonment
+Violation of probation,1 year imprisonment
+Misdemeanor assault,1 year imprisonment
+Public nuisance,6 months imprisonment or fine
+Illegal possession of narcotics,3 years imprisonment
+Fraudulent bankruptcy,5 years imprisonment
+Hate crime,4 years imprisonment
+Illegal animal trade,3 years imprisonment
+Bank robbery,12 years imprisonment
+Illegal fishing,2 years imprisonment and fines
+Counterfeit goods distribution,5 years imprisonment
+Illegal logging,4 years imprisonment
+Drug manufacturing,10 years imprisonment
+Illegal arms trafficking,15 years imprisonment
+Cyber espionage,10 years imprisonment
+Bribery of public officials,7 years imprisonment
+Illegal betting,1 year imprisonment and fines
+Conspiracy to commit crime,5 years imprisonment
+Smuggling of goods,6 years imprisonment
+False advertising,6 months imprisonment and fines
+Insurance fraud,4 years imprisonment
+Illegal possession of explosives,7 years imprisonment
+Sexual harassment,1 year imprisonment and workplace ban
+Voter fraud,2 years imprisonment
+Illegal wire transfer,3 years imprisonment
+Animal fighting,3 years imprisonment
+Illegal dumping of hazardous waste,5 years imprisonment and fines
+Assault on a police officer,10 years imprisonment
+Illegal possession of stolen property,4 years imprisonment
+Attempted burglary,3 years imprisonment
+Operating without a license,6 months imprisonment and fines
+Cyber stalking,2 years imprisonment
+Illegal drug manufacture,8 years imprisonment
+Impersonation,1 year imprisonment and fines
+Illegal surveillance of communications,4 years imprisonment
+Illegal import/export of endangered species,5 years imprisonment
+Child pornography possession,15 years imprisonment
+Tax avoidance,fines and penalties
+Public corruption,10 years imprisonment
+Illegal wire fraud,5 years imprisonment
+Armed assault,12 years imprisonment
+Illegal possession of counterfeit currency,6 years imprisonment
+Illegal betting operation,2 years imprisonment
+Forgery of legal documents,4 years imprisonment
+Illegal hacking,7 years imprisonment
+Cyberterrorism,15 years imprisonment
+Illegal poaching,3 years imprisonment and heavy fines
+Illegal border smuggling,7 years imprisonment
+Identity fraud,3 years imprisonment and restitution
+Sexual exploitation of minors,20 years imprisonment
+Illegal possession of stolen vehicles,4 years imprisonment
+Computer hacking,6 years imprisonment
+Mail fraud,5 years imprisonment and fines
+Money counterfeiting,8 years imprisonment
+Unlawful assembly,1 year imprisonment or community service
+Child endangerment,5 years imprisonment
+Animal abandonment,6 months imprisonment and fines
+Illegal export of cultural artifacts,4 years imprisonment
+Environmental vandalism,3 years imprisonment and penalties
+Obstruction of justice,4 years imprisonment
+Illegal wiretapping of private conversations,3 years imprisonment
+False imprisonment,2 years imprisonment
+Unlawful use of explosive devices,10 years imprisonment
+Sexual misconduct,3 years imprisonment and probation
+Illegal possession of hazardous materials,7 years imprisonment
+False statements to law enforcement,2 years imprisonment
+Illegal gambling operation,3 years imprisonment and fines
+Violation of restraining order,1 year imprisonment
+Forgery of identification documents,3 years imprisonment
+Illegal dumping of industrial waste,5 years imprisonment
+Bribery of foreign officials,8 years imprisonment
+Organized crime participation,10 years imprisonment
+Illegal possession of prescription drugs,3 years imprisonment
+Criminal trespass,1 year imprisonment and fines
+False reporting of emergencies,1 year imprisonment
+Illegal sale of alcohol,6 months imprisonment and fines
+Human smuggling,12 years imprisonment
+Illegal surveillance of employees,2 years imprisonment
+Illegal sale of tobacco products,1 year imprisonment and fines
+Illegal distribution of controlled substances,7 years imprisonment
+Violation of probation terms,1 year imprisonment
+Possession of illegal fireworks,1 year imprisonment and fines
+Illegal export of weapons,10 years imprisonment
+Hate speech,6 months imprisonment and community service
+Illegal possession of body armor,3 years imprisonment
+Unlicensed medical practice,5 years imprisonment
+Illegal disposal of medical waste,4 years imprisonment and fines
+False tax filing,3 years imprisonment and penalties
+Illegal transmission of copyrighted content,2 years imprisonment
+Animal fighting promotion,4 years imprisonment
+Unlawful possession of ammunition,3 years imprisonment
+Obstruction of law enforcement,4 years imprisonment
+Illegal importation of pharmaceuticals,6 years imprisonment
+Drug paraphernalia possession,1 year imprisonment
+Illegal use of government seals,2 years imprisonment
+False claims to government benefits,3 years imprisonment
+Illegal hacking of financial institutions,8 years imprisonment
+Unauthorized practice of law,2 years imprisonment
+Illegal wire fraud via telecommunications,5 years imprisonment
+Criminal negligence,3 years imprisonment
+Illegal disposal of radioactive waste,10 years imprisonment
+Conspiracy to commit fraud,6 years imprisonment
+Illegal possession of counterfeit goods,4 years imprisonment
+Unlawful possession of exotic animals,3 years imprisonment
+Illegal operation of motor vehicles,6 months imprisonment
+Criminal contempt of court,1 year imprisonment
+Illegal dumping of sewage,4 years imprisonment
+Cyber harassment,2 years imprisonment and fines
+Unlawful possession of drug manufacturing equipment,5 years imprisonment
+Illegal importation of endangered plants,3 years imprisonment
+Violation of privacy laws,2 years imprisonment
+Illegal possession of silencers,4 years imprisonment
+Criminal defamation,6 months imprisonment and fines
+Illegal distribution of pharmaceuticals,7 years imprisonment
+Unlicensed broadcasting,1 year imprisonment and fines
+Illegal sale of prescription medications,5 years imprisonment
+Fraudulent insurance claims,4 years imprisonment
+Illegal possession of stolen art,5 years imprisonment
+Illegal possession of controlled chemicals,6 years imprisonment
+False advertising of medical products,2 years imprisonment
+Illegal operation of a business without permit,1 year imprisonment and fines
+Illegal possession of firearms by felons,8 years imprisonment
+Criminal impersonation,3 years imprisonment
+Illegal modification of motor vehicles,6 months imprisonment
+Illegal storage of hazardous chemicals,5 years imprisonment
+False certification of documents,2 years imprisonment
+Illegal dumping of toxic substances,7 years imprisonment and fines
+Criminal facilitation,4 years imprisonment
+Illegal interception of communications,3 years imprisonment
+Money mule activities,5 years imprisonment
+Illegal export of dual-use technologies,7 years imprisonment
+Criminal breach of trust,6 years imprisonment
+Illegal use of confidential information,5 years imprisonment
+Illegal betting and wagering,1 year imprisonment and fines
+Unlawful possession of explosives materials,8 years imprisonment
+Illegal use of fake currency,6 years imprisonment
+Violation of cyber security laws,5 years imprisonment
+Illegal harvesting of protected timber,4 years imprisonment
+False imprisonment of vulnerable adults,6 years imprisonment
+Illegal possession of stolen electronic devices,4 years imprisonment
+Unlawful possession of restricted chemicals,5 years imprisonment
+False claims in government contracts,7 years imprisonment
+Illegal sale of counterfeit pharmaceuticals,8 years imprisonment
+Illegal possession of hacking tools,5 years imprisonment
+Fraudulent use of credit cards,4 years imprisonment and restitution
+Armed robbery,12 years imprisonment
+Battery,2 years imprisonment
+Carjacking,10 years imprisonment
+Credit card fraud,3 years imprisonment and fines
+Drug manufacturing,8 years imprisonment
+Embezzlement,5 years imprisonment and restitution
+Environmental pollution,4 years imprisonment and remediation costs
+Extortion,7 years imprisonment
+False testimony,2 years imprisonment
+Forgery,3 years imprisonment and fines
+Fraud,4 years imprisonment and penalties
+Hate crime,5 years imprisonment
+Identity theft,3 years imprisonment and restitution
+Illegal gambling,1 year imprisonment and fines
+Illegal mining,5 years imprisonment and penalties
+Illegal possession of firearms,4 years imprisonment
+Illegal possession of stolen property,3 years imprisonment
+Insider trading,7 years imprisonment and fines
+Money laundering,8 years imprisonment
+Pollution violation,3 years imprisonment and fines
+Prostitution,6 months imprisonment and fines
+Racketeering,10 years imprisonment
+Rape,15 years imprisonment
+Tax evasion,4 years imprisonment and fines
+Traffic violation,fines and points on license
+Violent assault,8 years imprisonment
+Weapons trafficking,12 years imprisonment
+Wire fraud,5 years imprisonment
+Child abuse,7 years imprisonment
+Conspiracy,6 years imprisonment
+Cybercrime,5 years imprisonment and computer ban
+Drug possession,1 year imprisonment and rehab
+Environmental crimes,3 years imprisonment and fines
+False reporting,1 year imprisonment
+Grand theft auto,5 years imprisonment
+Illegal mining,5 years imprisonment
+Illegal poaching,3 years imprisonment and fines
+Tax fraud,3 years imprisonment and fines
+Wiretapping,3 years imprisonment
+Aggravated assault,7 years imprisonment
+Antitrust violations,5 years imprisonment and fines
+Arson causing injury,12 years imprisonment
+Assault on law enforcement officer,10 years imprisonment
+Attempted burglary,4 years imprisonment
+Bank fraud,6 years imprisonment and fines
+Bribery of public officials,8 years imprisonment
+Breaking and entering,3 years imprisonment
+Child exploitation,20 years imprisonment
+Commercial bribery,4 years imprisonment
+Computer hacking,7 years imprisonment
+Concealment of evidence,3 years imprisonment
+Contempt of court,1 year imprisonment
+Counterfeit merchandise distribution,5 years imprisonment
+Credit card theft,4 years imprisonment and restitution
+Criminal mischief,1 year imprisonment and fines
+Deceptive trade practices,2 years imprisonment and fines
+Defamation,6 months imprisonment and fines
+Drug distribution,10 years imprisonment
+Drug possession with intent to distribute,7 years imprisonment
+DUI with injury,3 years imprisonment and license suspension
+Economic espionage,8 years imprisonment
+Election fraud,5 years imprisonment
+Eluding police,2 years imprisonment
+Embezzlement from government funds,7 years imprisonment
+Environmental law violations,4 years imprisonment and remediation
+Escaping custody,5 years imprisonment
+Extortion by threat,6 years imprisonment
+False advertising in commerce,1 year imprisonment and fines
+False claims against government,6 years imprisonment
+False identification use,3 years imprisonment
+False insurance claims,5 years imprisonment
+False pretenses,3 years imprisonment
+Felony assault,6 years imprisonment
+Financial fraud,7 years imprisonment
+Forgery of official documents,4 years imprisonment
+Grand theft,5 years imprisonment
+Hacking government databases,9 years imprisonment
+Health care fraud,7 years imprisonment
+Hindering prosecution,4 years imprisonment
+Illegal advertising of controlled substances,3 years imprisonment
+Illegal animal trade,4 years imprisonment
+Illegal arms sales,15 years imprisonment
+Illegal possession of explosives,8 years imprisonment
+Illegal sale of firearms,7 years imprisonment
+Illegal wire transfers,5 years imprisonment
+Immigration fraud,3 years imprisonment
+Impersonation of public officer,4 years imprisonment
+Indecent exposure,6 months imprisonment
+Insurance scam,4 years imprisonment
+Intellectual property theft,6 years imprisonment
+Interference with justice,5 years imprisonment
+Intimidation of witnesses,4 years imprisonment
+Kidnapping for ransom,20 years imprisonment
+Larceny,3 years imprisonment
+Libel,6 months imprisonment and fines
+Money laundering conspiracy,8 years imprisonment
+Motor vehicle theft,5 years imprisonment
+Murder in the second degree,25 years imprisonment
+Obstruction of justice,5 years imprisonment
+Operating without license,1 year imprisonment and fines
+Organized crime involvement,10 years imprisonment
+Passing bad checks,2 years imprisonment and restitution
+Perjury before court,3 years imprisonment
+Pollution control violation,4 years imprisonment
+Possession of stolen goods,4 years imprisonment
+Public corruption charges,10 years imprisonment
+Racketeering,9 years imprisonment
+Receiving stolen property,4 years imprisonment
+Reckless driving causing injury,3 years imprisonment
+Refusing to comply with law enforcement,1 year imprisonment
+Resisting arrest with violence,4 years imprisonment
+Robbery with a deadly weapon,12 years imprisonment
+Selling narcotics near schools,10 years imprisonment
+Sexual exploitation,15 years imprisonment
+Sexual offense against minors,20 years imprisonment
+Smuggling contraband,8 years imprisonment
+Solicitation of prostitution,1 year imprisonment
+Tax evasion and fraud,6 years imprisonment
+Theft of intellectual property,4 years imprisonment
+Threatening public officials,3 years imprisonment
+Traffic homicide,7 years imprisonment
+Trespassing on government property,1 year imprisonment
+Unauthorized use of vehicles,3 years imprisonment
+Unlawful assembly,6 months imprisonment or community service
+Unlawful possession of firearms,5 years imprisonment
+Vandalism of historic property,2 years imprisonment
+Vehicular assault,5 years imprisonment
+Wire fraud and scams,6 years imprisonment
+Witness tampering,5 years imprisonment
+Wrongful imprisonment,7 years imprisonment
+Wrongful death,10 years imprisonment
