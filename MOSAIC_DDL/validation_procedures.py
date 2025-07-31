@@ -274,10 +274,10 @@ def validate_attribute_frequency() -> None:
 
     # Create dataframe of results for seaborn
     df = pd.DataFrame({"Attribute": list(attribute_statistics_fractions.keys()), "Computed Frequency": [
-                      attribute_statistics_fractions[key] for key in attribute_statistics_fractions], "Actual Frequency": [frequencies[key] for key in attribute_statistics_fractions]})
+                      attribute_statistics_fractions[key] for key in attribute_statistics_fractions], "Target Frequency": [frequencies[key] for key in attribute_statistics_fractions]})
 
     # Sort data in descending order of computed frequency value
-    df = df.sort_values(by=["Actual Frequency", "Attribute"],
+    df = df.sort_values(by=["Target Frequency", "Attribute"],
                         ascending=[False, True])
 
     # Set theme, set font and size
@@ -287,8 +287,8 @@ def validate_attribute_frequency() -> None:
     # Plot bars and markers
     ax = sns.barplot(x="Attribute", y="Computed Frequency",
                      data=df, color="#cfe4ff", saturation=1.0, label="Computed Frequency")
-    sns.scatterplot(x="Attribute", y="Actual Frequency",
-                    data=df, zorder=10, s=120, color="red", edgecolor="black", label="Actual Frequency")
+    sns.scatterplot(x="Attribute", y="Target Frequency",
+                    data=df, zorder=10, s=120, color="red", edgecolor="black", label="Target Frequency")
 
     # Rotate x axis labels for better readability
     plt.xticks(rotation=45, ha="right")
@@ -297,7 +297,7 @@ def validate_attribute_frequency() -> None:
     plt.ylim(0, 1)
 
     # Set title and axis names
-    plt.title("Computed Frequency vs Actual Frequency", fontsize=15)
+    plt.title("Computed Frequency vs Target Frequency", fontsize=15)
     plt.ylabel("Frequency", fontsize=15)
     plt.xlabel("Attribute", fontsize=15)
     plt.legend(fontsize=15)
@@ -462,10 +462,10 @@ def validate_cooccurrence_frequency() -> None:
 
     # Create dataframe of results for seaborn
     df = pd.DataFrame({"Relation": list(relations_statistics_fractions.keys()), "Computed Frequency": [
-                      relations_statistics_fractions[key] for key in relations_statistics_fractions], "Actual Frequency": [frequencies[key] for key in relations_statistics_fractions]})
+                      relations_statistics_fractions[key] for key in relations_statistics_fractions], "Target Frequency": [frequencies[key] for key in relations_statistics_fractions]})
 
     # Sort data in descending order of computed frequency value
-    df = df.sort_values(by=["Actual Frequency", "Relation"],
+    df = df.sort_values(by=["Target Frequency", "Relation"],
                         ascending=[False, True])
 
     # Set theme, set font and size
@@ -475,8 +475,8 @@ def validate_cooccurrence_frequency() -> None:
     # Plot bars and markers
     ax = sns.barplot(x="Relation", y="Computed Frequency",
                      data=df, color="#cfe4ff", saturation=1.0, label="Computed Frequency")
-    sns.scatterplot(x="Relation", y="Actual Frequency",
-                    data=df, zorder=10, s=120, color="red", edgecolor="black", label="Actual Frequency")
+    sns.scatterplot(x="Relation", y="Target Frequency",
+                    data=df, zorder=10, s=120, color="red", edgecolor="black", label="Target Frequency")
 
     # Rotate x axis labels for better readability
     plt.xticks(rotation=45, ha="right")
@@ -485,7 +485,7 @@ def validate_cooccurrence_frequency() -> None:
     plt.ylim(0, 1)
 
     # Set title and axis names
-    plt.title("Computed Frequency vs Actual Frequency", fontsize=15)
+    plt.title("Computed Frequency vs Target Frequency", fontsize=15)
     plt.ylabel("Frequency", fontsize=15)
     plt.xlabel("Relation", fontsize=15)
     plt.legend(fontsize=15)
