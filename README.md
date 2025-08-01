@@ -24,9 +24,4 @@ We promise it's worth the extra click. 😄
 
 ---
 
-🔮 **Begin your quest here:**  
-👉 [`MOSAIC_DDL/`](./MOSAIC_DDL)
-
----
-
 <sub><sup>📝 This message was brought to life with the help of ChatGPT.</sup></sub>
